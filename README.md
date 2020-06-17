@@ -21,7 +21,7 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 10. Lockdown type is a feature capturing the type of lockdown in a given state [7, 8] (filename: source/Data_lockdown.csv, feature name: Lockdown)
 
-11. Day of lockdown is a feature capturing the number of difference between 1st of January, 2020 to the date of lockdown [9] (filename: source/Data_lockdown.csv, feature name: Day Lockdown)
+11. Day of lockdown is a feature capturing the difference in days between 1st of January, 2020 to the date of lockdown [9] (filename: source/Data_lockdown.csv, feature name: Day Lockdown)
 
 12. Population density is the ratio between the population and area of a region [10] (filename: source/Data_population.csv, feature name: Population, Area, Population Density)
 
@@ -38,7 +38,7 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 16. Days between first infected and lockdown date (feature name: FirstInf-Lockdown) 
 
 
-New York City dataset ((NYC_dist_mob.xlsx): mobility data (https://data.cityofnewyork.us/Transportation/Traffic-Volume-Counts-2012-2013-/p424-amsu) and COVID data (https://data.beta.nyc/pages/nyc-covid19)
+New York City dataset ((NYC_dist_mob.xlsx): mobility data [13] and COVID data [14]
 
 
 
@@ -67,5 +67,9 @@ References
 [11] https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_United_States
 
 [12] https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/previous-testing-in-us.html
+
+[13] https://data.cityofnewyork.us/Transportation/Traffic-Volume-Counts-2012-2013-/p424-amsu
+
+[14] https://data.beta.nyc/pages/nyc-covid19
 
 
