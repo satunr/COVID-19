@@ -15,13 +15,13 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 7. Total cases (and death) of COVID-19 tested positive individuals (normalized by the population of a state) [7] (filename: source/Data_covid_total.xlsx, feature name: Total Cases, Normalized cases, Total Death, Normalized deaths) 
 
-8. Infected score (scale 0 - 5) and death score (0 - 6) is obtained by normalizing total cases and deaths of a state by the sum of infected and death across all states (feature name: Infected Score, Death Score)
+8. Infected score and death score (scale 0 - 6) is obtained by normalizing total cases and deaths of a state by the sum of infected and death across all states (feature name: Infected Score, Death Score)
 
 9. Death-to-Infected discrepancy is a feature measuring Death max( Score - Infected Score, 0) (feature name: Death-Infected)
 
 10. Lockdown type is a feature capturing the type of lockdown in a given state [7, 8] (filename: source/Data_lockdown.csv, feature name: Lockdown)
 
-11. Day of lockdown is a feature capturing the difference in days between first day of infection to the date of lockdown [9] (filename: source/Data_lockdown.csv, feature name: Day Lockdown)
+11. Day of lockdown is a feature capturing the difference in days between the first day of infection to the date of lockdown [9] (filename: source/Data_lockdown.csv, feature name: Day Lockdown)
 
 12. Population density is the ratio between the population and area of a region [10] (filename: source/Data_population.csv, feature name: Population, Area, Population Density)
 
@@ -29,7 +29,7 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 12. Age groups (0 - 85+) in brackets of 4 normalized by total population [10] (filename: source/Data_age.xlsx, feature name: age_to_, Norm_to_); we later group them in brackets of 20 for experimental purposes
 
-13. Peak infected (and peak date) measures the duration beyween first date of infection and date of daily infected (and death) peaks [10] (feature name: Peak Infected, Peak Death)
+13. Peak infected (and peak date) measures the duration between first date of infection and date of daily infected (and death) peaks [10] (feature name: Peak Infected, Peak Death)
 
 14. Testing measures the number of individuals tested for COVID-19 (before and after lockdown) [8, 12] (filename: source/Data_testing.xlsx, feature name: Testing, Pre-lockdown testing, Post-lockdown testing)
 
