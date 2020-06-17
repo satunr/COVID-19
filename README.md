@@ -21,7 +21,7 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 10. Lockdown type is a feature capturing the type of lockdown in a given state [7, 8] (filename: source/Data_lockdown.csv, feature name: Lockdown)
 
-11. Day of lockdown is a feature capturing the difference in days between 1st of January, 2020 to the date of lockdown [9] (filename: source/Data_lockdown.csv, feature name: Day Lockdown)
+11. Day of lockdown is a feature capturing the difference in days between first day of infection to the date of lockdown [9] (filename: source/Data_lockdown.csv, feature name: Day Lockdown)
 
 12. Population density is the ratio between the population and area of a region [10] (filename: source/Data_population.csv, feature name: Population, Area, Population Density)
 
