@@ -13,9 +13,11 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 6. Homeless feature is the number of homeless individuals (normalized by the population of a state) [6] (filename: source/Data_homeless.xlsx, feature name: Homeless, Normalized Homeless)
 
-7. Total cases of COVID-19 tested positive individuals (normalized by the population of a state) [7] (filename: source/Data_covid_total.xlsx, feature name: Total Cases, Normalized cases) 
+7. Total cases (and death) of COVID-19 tested positive individuals (normalized by the population of a state) [7] (filename: source/Data_covid_total.xlsx, feature name: Total Cases, Normalized cases, Total Death, Normalized deaths) 
 
-8. 
+8. Infected score (scale 0 - 5) and death score (0 - 6) is obtained by normalizing total cases and deaths of a state by the sum of infected and death across all states (feature name: Infected Score, Death Score)
+
+9. 
 
 References
 
@@ -32,3 +34,5 @@ References
 [6] https://www.hudexchange.info/resource/3300/2013-ahar-part-1-pit-estimates-of-homelessness/
 
 [7] https://www.cdc.gov/covid-data-tracker/#testing
+
+[8] 
