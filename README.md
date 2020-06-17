@@ -38,6 +38,10 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 16. Days between first infected and lockdown date (feature name: FirstInf-Lockdown) 
 
 
+New York City dataset ((NYC_dist_mob.xlsx): mobility data (https://data.cityofnewyork.us/Transportation/Traffic-Volume-Counts-2012-2013-/p424-amsu) and COVID data (https://data.beta.nyc/pages/nyc-covid19)
+
+
+
 References
 
 [1] https://worldpopulationreview.com/states/gdp-by-state/
