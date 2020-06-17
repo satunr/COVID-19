@@ -1,4 +1,4 @@
-# COVID-19
+# COVID-19 US States Feature Set
 We create a dataset (Main.xlsx) of US states and several features that may potentially influence the infected and death counts due to COVID-19. Below we discuss the source and description of the different features.
 
 1. Gross Domestic Product ($million) for US states [1] (filename: source/GDP.xlsx, feature name: GDP)
@@ -21,7 +21,9 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 10. Lockdown type is a feature capturing the type of lockdown in a given state [8] (filename: source/Data_lockdown.csv, feature name: Lockdown)
 
-11. 
+11. Day of lockdown is a feature capturing the number of difference between 1st of January, 2020 to the date of lockdown [8] (filename: source/Data_lockdown.csv, feature name: Day Lockdown)
+
+12. 
 
 
 References
