@@ -15,7 +15,11 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 References
 [1] https://worldpopulationreview.com/states/gdp-by-state/
+
 [2] https://en.wikipedia.org/wiki/List_of_geographic_centers_of_the_United_States#Updated_list
+
 [3] https://www.kff.org/other/state-indicator/distribution-by-gender/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
+
 [4] https://www.kff.org/other/state-indicator/distribution-by-raceethnicity/?dataView=0&currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
+
 [5] https://www.ahrq.gov/data/infographics/state-compare-text.html
