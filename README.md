@@ -17,7 +17,12 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 8. Infected score (scale 0 - 5) and death score (0 - 6) is obtained by normalizing total cases and deaths of a state by the sum of infected and death across all states (feature name: Infected Score, Death Score)
 
-9. 
+9. Death-to-Infected discrepancy is a feature measuring Death max( Score - Infected Score, 0) (feature name: Death-Infected)
+
+10. Lockdown type is a feature capturing the type of lockdown in a given state [8] (filename: source/Data_lockdown.csv, feature name: Lockdown)
+
+11. 
+
 
 References
 
@@ -35,4 +40,4 @@ References
 
 [7] https://www.cdc.gov/covid-data-tracker/#testing
 
-[8] 
+[8] https://www.kaggle.com/lin0li/us-lockdown-dates-dataset
