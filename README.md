@@ -27,7 +27,7 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 11. Business of airport measures passenger traffic normalized the business across all states [11] (filename: source/Data_airport.xlsx, feature name: Busy airport score, Normalized busy airport)
 
-12. Age groups (0 - 85+) in brackets of 4 normalized by total population [10] (filename: source/Data_age.xlsx, feature name: age_to_, Norm_to_); we later group them in brackets of 20 to experimental purposes
+12. Age groups (0 - 85+) in brackets of 4 normalized by total population [10] (filename: source/Data_age.xlsx, feature name: age_to_, Norm_to_); we later group them in brackets of 20 for experimental purposes
 
 13. Peak infected (and peak date) measures the duration beyween first date of infection and date of daily infected (and death) peaks [10] (feature name: Peak Infected, Peak Death)
 
