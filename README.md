@@ -23,8 +23,11 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 11. Day of lockdown is a feature capturing the number of difference between 1st of January, 2020 to the date of lockdown [8] (filename: source/Data_lockdown.csv, feature name: Day Lockdown)
 
-12. 
+12. Population density is the ratio between the population and area of a region [9] (filename: source/Data_population.csv, feature name: Population, Area, Population Density)
 
+11. Business of airport measures passenger traffic normalized the business across all states [10] (filename: source/Data_airport.xlsx, feature name: Busy airport score, Normalized busy airport)
+
+12.
 
 References
 
@@ -43,3 +46,9 @@ References
 [7] https://www.cdc.gov/covid-data-tracker/#testing
 
 [8] https://www.kaggle.com/lin0li/us-lockdown-dates-dataset
+
+[9] https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-detail.html
+
+[10] https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_United_States
+
+[11] 
