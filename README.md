@@ -42,7 +42,10 @@ max(Death Score - Infected Score, 0)
 16. Days between first infected and lockdown date (feature name: FirstInf-Lockdown) 
 
 
-New York City dataset ((NYC_dist_mob.xlsx): mobility data [13] and COVID data [14]
+New York City dataset (NYC_dist_mob.xlsx) captures the mobility and COVID-19 data for the 5 boroughs of NYC.
+
+1. Mobility data shows the transition from one borough to another [13] 
+2. COVID-19 data shows the number of COVID-19 infected and death for each borough [14]
 
 
 
