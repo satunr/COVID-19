@@ -19,15 +19,24 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 9. Death-to-Infected discrepancy is a feature measuring Death max( Score - Infected Score, 0) (feature name: Death-Infected)
 
-10. Lockdown type is a feature capturing the type of lockdown in a given state [8] (filename: source/Data_lockdown.csv, feature name: Lockdown)
+10. Lockdown type is a feature capturing the type of lockdown in a given state [7, 8] (filename: source/Data_lockdown.csv, feature name: Lockdown)
 
-11. Day of lockdown is a feature capturing the number of difference between 1st of January, 2020 to the date of lockdown [8] (filename: source/Data_lockdown.csv, feature name: Day Lockdown)
+11. Day of lockdown is a feature capturing the number of difference between 1st of January, 2020 to the date of lockdown [9] (filename: source/Data_lockdown.csv, feature name: Day Lockdown)
 
-12. Population density is the ratio between the population and area of a region [9] (filename: source/Data_population.csv, feature name: Population, Area, Population Density)
+12. Population density is the ratio between the population and area of a region [10] (filename: source/Data_population.csv, feature name: Population, Area, Population Density)
 
-11. Business of airport measures passenger traffic normalized the business across all states [10] (filename: source/Data_airport.xlsx, feature name: Busy airport score, Normalized busy airport)
+11. Business of airport measures passenger traffic normalized the business across all states [11] (filename: source/Data_airport.xlsx, feature name: Busy airport score, Normalized busy airport)
 
-12.
+12. Age groups (0 - 85+) in brackets of 4 normalized by total population [10] (filename: source/Data_age.xlsx, feature name: age_to_, Norm_to_); we later group them in brackets of 20 to experimental purposes
+
+13. Peak infected (and peak date) measures the duration beyween first date of infection and date of daily infected (and death) peaks [10] (feature name: Peak Infected, Peak Death)
+
+14. Testing measures the number of individuals tested for COVID-19 (before and after lockdown) [8, 12] (filename: source/Data_testing.xlsx, feature name: Testing, Pre-lockdown testing, Post-lockdown testing)
+
+15. Pre- and post-infected and death count measures the number of individuals infected and dead before and after lockdown dates (feature name: Testing, Pre-infected count, Pre-death count, Post-infected count, Post-death count)
+
+16. Days between first infected and lockdown date (feature name: FirstInf-Lockdown) 
+
 
 References
 
@@ -45,10 +54,14 @@ References
 
 [7] https://www.cdc.gov/covid-data-tracker/#testing
 
-[8] https://www.kaggle.com/lin0li/us-lockdown-dates-dataset
+[8] https://www.worldometers.info/coronavirus/country/us/
 
-[9] https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-detail.html
+[9] https://www.kaggle.com/lin0li/us-lockdown-dates-dataset
 
-[10] https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_United_States
+[10] https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-detail.html
 
-[11] 
+[11] https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_United_States
+
+[12] https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/previous-testing-in-us.html
+
+
