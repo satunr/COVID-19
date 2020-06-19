@@ -3,7 +3,7 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 1. Gross Domestic Product ($million) for US states [1] (filename: source/GDP.xlsx, feature name: GDP)
 
-2. Distance from one state to another (is not the actual distance in miles) but the euclidean distance between their lat-long coordinates [2] (filename: source/Data_distance.xlsx, feature name: d(State))
+2. Distance from one state to another (is not the actual distance in miles) but the euclidean distance between their lat-long coordinates [2] (filename: source/Data_distance.xlsx, feature name: d(state1, state2))
 
 3. Gender feature(s) is a fraction of total population representing male and female [3] (filename: source/Data_gender.csv, feature name: Male, Female)
 
