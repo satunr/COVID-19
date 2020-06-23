@@ -45,11 +45,9 @@ max(Death Score - Infected Score, 0)
 
 New York City dataset (NYC_dist_mob.xlsx) captures the mobility and COVID-19 data for the 5 boroughs of NYC.
 
-1. Mobility data (based on traffic volume counts collected by DOT for New York Metropolitan Transportation Council (NYMTC) [13]) shows the number of trips from one borough to another
+1. Mobility data (based on traffic volume counts collected by DOT for New York Metropolitan Transportation Council (NYMTC[13]) shows the number of trips from one borough to another
 
-2. COVID-19 data shows the number of COVID-19 infected and death for each borough [14]
-
-
+2. COVID-19 data shows the number of COVID-19 infected and death counts for each borough [14].
 
 References
 
