@@ -25,21 +25,22 @@ max(Death Score - Infected Score, 0)
 
 10. Lockdown type is a feature capturing the type of lockdown (shelter in place: 1 and stay at home: 2) in a given state[7,8] (filename:source/Datalockdown.csv, feature name: Lockdown)
 
-11. Day of lockdown is a feature capturing the difference in days between the first day of infection to the date of lockdown [9] (filename: source/Data_lockdown.csv, feature name: Day Lockdown)
+11. Day of lockdown captures the difference in days between 1st January 2020 to the date of imposition of lockdown in a region[10] (filename:source/Datalockdown.csv, feature name: Day Lockdown)
 
-12. Population density is the ratio between the population and area of a region [10] (filename: source/Data_population.csv, feature name: Population, Area, Population Density)
+12. Population density is the ratio between the population and area of a region[10] (filename: source/Datapopulation.csv, feature name: Pop-ulation, Area, Population Density).
 
-11. Business of airport measures passenger traffic normalized the business across all states [11] (filename: source/Data_airport.xlsx, feature name: Busy airport score, Normalized busy airport)
+13. Traffic/activity of airport measures the passenger traffic (also normalized by the total traffic across all the states of USA[11] (filename:source/Dataairport.xlsx, feature name: Busy airport score, Normal-ized busy airport)
 
-12. Age groups (0 - 85+) in brackets of 4 normalized by total population [10] (filename: source/Data_age.xlsx, feature name: age_to_, Norm_to_, e.g. age4to8); we later group them in brackets of 20 for experimental purposes
+14. Age groups (0 - 85+) in brackets of 4 year (also normalized by total population)[10] (filename: source/Dataage.xlsx, feature name: age_to_ Norm_to_, e.g. age4to8); we later group them in brackets of 20 for thepurposes of analysis.
 
-13. Peak infected (and peak date) measures the duration between first date of infection and date of daily infected (and death) peaks [10] (feature name: Peak Infected, Peak Death)
+15. Peak infected (and peak death) measures the duration between first date of infection and date of daily infected (and death) peaks[10] (featurename:  Peak Infected, Peak Death).
 
-14. Testing measures the number of individuals tested for COVID-19 (before and after lockdown) [8, 12] (filename: source/Data_testing.xlsx, feature name: Testing, Pre-lockdown testing, Post-lockdown testing)
+16. Testing measures the number of individuals tested for COVID-19 (total number before and after imposition of lockdown[8,12] (filename:source/Datatesting.xlsx, feature name: Testing, Pre-lockdown testing, Post-lockdown testing)
 
-15. Pre- and post-infected and death count measures the number of individuals infected and dead before and after lockdown dates (feature name: Testing, Pre-infected count, Pre-death count, Post-infected count, Post-death count)
+17. Pre- and post-infected and death count measures the number of individuals infected and dead before and after lockdown dates (feature name:Testing, Pre-infected count, Pre-death count, Post-infected count, Post-death count).
 
-16. Days between first infected and lockdown date (feature name: FirstInf-Lockdown) 
+18. Days between first infected and lockdown date (feature name: First-Inf-Lockdown)
+
 
 
 New York City dataset (NYC_dist_mob.xlsx) captures the mobility and COVID-19 data for the 5 boroughs of NYC.
