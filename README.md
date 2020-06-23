@@ -31,7 +31,7 @@ max(Death Score - Infected Score, 0)
 
 13. Traffic/activity of airport measures the passenger traffic (also normalized by the total traffic across all the states of USA[11] (filename: source/Data_airport.xlsx, feature name: Busy airport score, Normal-ized busy airport)
 
-14. Age groups (0 - 85+) in brackets of 4 year (also normalized by total population)[10] (filename: source/Data_age.xlsx, feature name: age_to_ Norm_to_, e.g. age4to8); we later group them in brackets of 20 for thepurposes of analysis.
+14. Age groups (0 - 85+) in brackets of 4 year (also normalized by total population)[10] (filename: source/Data_age.xlsx, feature name: age_to_ Norm_to_, e.g. age4to8); we later group them in brackets of 20 for the purposes of analysis.
 
 15. Peak infected (and peak death) measures the duration between first date of infection and date of daily infected (and death) peaks[10] (feature name: Peak Infected, Peak Death).
 
