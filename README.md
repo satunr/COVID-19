@@ -1,4 +1,4 @@
-# COVID-19 US States Feature Set
+# COVID-19 US States and New York City Feature Set
 We create a dataset (Main.xlsx) of US states and several features that may potentially influence the infected and death counts due to COVID-19. Below we discuss the source and description of the different features.
 
 1. Gross Domestic Product (in terms of million US dollars) for US states[1] (filename:  source/GDP.xlsx, feature name:  GDP).
