@@ -3,17 +3,17 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 1. Gross Domestic Product (in terms of million US dollars) for US states[1] (filename:  source/GDP.xlsx, feature name:  GDP).
 
-2. Distance from one state to another (is not measured in miles but the euclidean distance between their latitude-longitude  coordinates[2]) (filename: source/Datadistance.xlsx, feature name: d(state1,state2))
+2. Distance from one state to another (is not measured in miles but the euclidean distance between their latitude-longitude  coordinates[2]) (filename: source/Data_distance.xlsx, feature name: d(state1,state2))
 
-3. Gender feature(s) is a fraction of total population representing the male and female individuals[3] (filename: source/Datagender.csv, feature name:  Male, Female)
+3. Gender feature(s) is a fraction of total population representing the male and female individuals[3] (filename: source/Data_gender.csv, feature name:  Male, Female)
 
-4. Ethnicity feature(s) are the fraction of total population representing white, black, hispanic and Asian individuals (we leave out other smaller ethnic groups)[4] (filename: source/Dataethnic.csv, feature name: White, Black, Hispanic and Asian)
+4. Ethnicity feature(s) are the fraction of total population representing white, black, hispanic and Asian individuals (we leave out other smaller ethnic groups)[4] (filename: source/Data_ethnic.csv, feature name: White, Black, Hispanic and Asian)
 
-5. Healthcare index is measured by the Agency for Healthcare Research and Quality (AHRQ) on the basis of (1) type of care (such as preventive or chronic), (2) setting of care (such as nursing homes or hospitals), and (3) clinical areas (such as care for patients with cancer or diabetes)[5] (filename: source/Datahealth.xlsx, feature name: Health)
+5. Healthcare index is measured by the Agency for Healthcare Research and Quality (AHRQ) on the basis of (1) type of care (such as preventive or chronic), (2) setting of care (such as nursing homes or hospitals), and (3) clinical areas (such as care for patients with cancer or diabetes)[5] (filename: source/Data_health.xlsx, feature name: Health)
 
 6. Homeless feature is the number of homeless individuals (normalized by the population of a state) [6] (filename: source/Data_homeless.xlsx, feature name: Homeless, Normalized Homeless)
 
-7. Total cases (and  deaths) of COVID-19 is the number of individuals tested positive and dead (normalized by the population of a state)[7] (filename: source/Datacovidtotal.xlsx, feature name: Total cases, Normalized cases, Total death, Normalized deaths).
+7. Total cases (and  deaths) of COVID-19 is the number of individuals tested positive and dead (normalized by the population of a state)[7] (filename: source/Data_covid_total.xlsx, feature name: Total cases, Normalized cases, Total death, Normalized deaths).
 
 8. Infected score and death score is obtained by rounding normalized total cases and deaths to a discrete value between 0 and 6 (feature name: Infected Score, Death Score).
 
@@ -23,19 +23,19 @@ max(Death Score - Infected Score, 0)
 
 (feature name: Death-Infected)
 
-10. Lockdown type is a feature capturing the type of lockdown (shelter in place: 1 and stay at home: 2) in a given state[7,8] (filename:source/Datalockdown.csv, feature name: Lockdown)
+10. Lockdown type is a feature capturing the type of lockdown (shelter in place: 1 and stay at home: 2) in a given state[7,8] (filename:source/Data_lockdown.csv, feature name: Lockdown)
 
-11. Day of lockdown captures the difference in days between 1st January 2020 to the date of imposition of lockdown in a region[10] (filename:source/Datalockdown.csv, feature name: Day Lockdown)
+11. Day of lockdown captures the difference in days between 1st January 2020 to the date of imposition of lockdown in a region[10] (filename: source/Data_lockdown.csv, feature name: Day Lockdown)
 
-12. Population density is the ratio between the population and area of a region[10] (filename: source/Datapopulation.csv, feature name: Pop-ulation, Area, Population Density).
+12. Population density is the ratio between the population and area of a region[10] (filename: source/Data_population.csv, feature name: Population, Area, Population Density).
 
-13. Traffic/activity of airport measures the passenger traffic (also normalized by the total traffic across all the states of USA[11] (filename:source/Dataairport.xlsx, feature name: Busy airport score, Normal-ized busy airport)
+13. Traffic/activity of airport measures the passenger traffic (also normalized by the total traffic across all the states of USA[11] (filename: source/Data_airport.xlsx, feature name: Busy airport score, Normal-ized busy airport)
 
-14. Age groups (0 - 85+) in brackets of 4 year (also normalized by total population)[10] (filename: source/Dataage.xlsx, feature name: age_to_ Norm_to_, e.g. age4to8); we later group them in brackets of 20 for thepurposes of analysis.
+14. Age groups (0 - 85+) in brackets of 4 year (also normalized by total population)[10] (filename: source/Data_age.xlsx, feature name: age_to_ Norm_to_, e.g. age4to8); we later group them in brackets of 20 for thepurposes of analysis.
 
-15. Peak infected (and peak death) measures the duration between first date of infection and date of daily infected (and death) peaks[10] (featurename:  Peak Infected, Peak Death).
+15. Peak infected (and peak death) measures the duration between first date of infection and date of daily infected (and death) peaks[10] (feature name: Peak Infected, Peak Death).
 
-16. Testing measures the number of individuals tested for COVID-19 (total number before and after imposition of lockdown[8,12] (filename:source/Datatesting.xlsx, feature name: Testing, Pre-lockdown testing, Post-lockdown testing)
+16. Testing measures the number of individuals tested for COVID-19 (total number before and after imposition of lockdown[8,12] (filename: source/Data_testing.xlsx, feature name: Testing, Pre-lockdown testing, Post-lockdown testing)
 
 17. Pre- and post-infected and death count measures the number of individuals infected and dead before and after lockdown dates (feature name:Testing, Pre-infected count, Pre-death count, Post-infected count, Post-death count).
 
