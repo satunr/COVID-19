@@ -1,7 +1,7 @@
 # COVID-19 US States Feature Set
 We create a dataset (Main.xlsx) of US states and several features that may potentially influence the infected and death counts due to COVID-19. Below we discuss the source and description of the different features.
 
-1. Gross Domestic Product(in terms of million US dollars) for US states[1] (filename:  source/GDP.xlsx, feature name:  GDP).
+1. Gross Domestic Product (in terms of million US dollars) for US states[1] (filename:  source/GDP.xlsx, feature name:  GDP).
 
 2. Distance from one state to another (is not measured in miles but the euclidean distance between their latitude-longitude  coordinates[2]) (filename: source/Datadistance.xlsx, feature name: d(state1,state2))
 
@@ -13,9 +13,9 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 6. Homeless feature is the number of homeless individuals (normalized by the population of a state) [6] (filename: source/Data_homeless.xlsx, feature name: Homeless, Normalized Homeless)
 
-7. Total cases (and death) of COVID-19 tested positive individuals (normalized by the population of a state) [7] (filename: source/Data_covid_total.xlsx, feature name: Total Cases, Normalized cases, Total Death, Normalized deaths) 
+7. Total cases (and  deaths) of COVID-19 is the number of individuals tested positive and dead (normalized by the population of a state)[7] (filename: source/Datacovidtotal.xlsx, feature name: Total cases, Normalized cases, Total death, Normalized deaths).
 
-8. Infected score and death score (scale 0 - 6) is obtained by normalizing total cases and deaths of a state by the sum of infected and death across all states (feature name: Infected Score, Death Score)
+8. Infected score and death score is obtained by rounding normalized total cases and deaths to a discrete value between 0 and 6 (feature name: Infected Score, Death Score).
 
 9. Death-to-Infected discrepancy is a feature measuring impact of death, calculated as:
 
@@ -23,7 +23,7 @@ max(Death Score - Infected Score, 0)
 
 (feature name: Death-Infected)
 
-10. Lockdown type is a feature capturing the type of lockdown in a given state [7, 8] (filename: source/Data_lockdown.csv, feature name: Lockdown)
+10. Lockdown type is a feature capturing the type of lockdown (shelter in place: 1 and stay at home: 2) in a given state[7,8] (filename:source/Datalockdown.csv, feature name: Lockdown)
 
 11. Day of lockdown is a feature capturing the difference in days between the first day of infection to the date of lockdown [9] (filename: source/Data_lockdown.csv, feature name: Day Lockdown)
 
