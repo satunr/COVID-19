@@ -7,11 +7,9 @@ We create a dataset (Main.xlsx) of US states and several features that may poten
 
 3. Gender feature(s) is a fraction of total population representing the male and female individuals[3] (filename: source/Datagender.csv, feature name:  Male, Female)
 
-4. Ethnicity feature(s) are the fraction of total population representing white, black, hispanic and asian (we leave out other smaller ethnic groups) [4] (filename: source/Data_ethnic.csv, feature name: White, Black, Hispanic and Asian)
+4. Ethnicity feature(s) are the fraction of total population representing white, black, hispanic and Asian individuals (we leave out other smaller ethnic groups)[4] (filename: source/Dataethnic.csv, feature name: White, Black, Hispanic and Asian)
 
-4. Ethnicity feature(s) are the fraction of total population representing white, black, hispanic and Asian individuals (we leave out other smaller ethnic groups)[20] (filename: source/Dataethnic.csv, feature name: White, Black, Hispanic and Asian)
-
-5. Healthcare index is measured by the Agency for Healthcare Research and Quality (AHRQ) on the basis of (1) type of care (such as preventive or chronic), (2) setting of care (such as nursing homes or hospitals), and (3) clinical areas (such as care for patients with cancer or diabetes) [5] (filename: source/Data_health.xlsx, feature name: Health)
+5. Healthcare index is measured by the Agency for Healthcare Research and Quality (AHRQ) on the basis of (1) type of care (such as preventive or chronic), (2) setting of care (such as nursing homes or hospitals), and (3) clinical areas (such as care for patients with cancer or diabetes)[5] (filename: source/Datahealth.xlsx, feature name: Health)
 
 6. Homeless feature is the number of homeless individuals (normalized by the population of a state) [6] (filename: source/Data_homeless.xlsx, feature name: Homeless, Normalized Homeless)
 
