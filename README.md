@@ -1,11 +1,11 @@
 # COVID-19 US States Feature Set
 We create a dataset (Main.xlsx) of US states and several features that may potentially influence the infected and death counts due to COVID-19. Below we discuss the source and description of the different features.
 
-1. Gross Domestic Product ($million) for US states [1] (filename: source/GDP.xlsx, feature name: GDP)
+1. Gross Domestic Product(in terms of million US dollars) for US states[1] (filename:  source/GDP.xlsx, feature name:  GDP).
 
-2. Distance from one state to another (is not the actual distance in miles) but the euclidean distance between their lat-long coordinates [2] (filename: source/Data_distance.xlsx, feature name: d(state1, state2))
+2. Distance from one state to another (is not measured in miles but the euclidean distance between their latitude-longitude  coordinates[2]) (filename: source/Datadistance.xlsx, feature name: d(state1,state2))
 
-3. Gender feature(s) is a fraction of total population representing male and female [3] (filename: source/Data_gender.csv, feature name: Male, Female)
+3. Genderfeature(s) is a fraction of total population representing the male and female individuals[3] (filename: source/Datagender.csv, feature name:  Male, Female)
 
 4. Ethnicity feature(s) are the fraction of total population representing white, black, hispanic and asian (we leave out other smaller ethnic groups) [4] (filename: source/Data_ethnic.csv, feature name: White, Black, Hispanic and Asian)
 
