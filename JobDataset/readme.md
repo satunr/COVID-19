@@ -1,1 +1,1 @@
-To be filled in.
+The curated dataset from the Worker Adjustment and Retraining Notification (WARN) Act (associated with the U.S. Department of Labor) that helps ensure advance notice in cases of qualified plant closings and mass layoffs. For each of the 26 states, the data has the following fields: company name, layoff, total workforce, local area and WARN Date.
