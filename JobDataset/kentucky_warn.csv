@@ -1,0 +1,409 @@
+Date Received,Region,County,Company Name,NAICS Code,Employees,Closure or Layoff?,Projected Date,Trade
+6/26/2020,Western Kentucky,Marshall,CC Metals and Alloys,33111,106,Layoff,7/1/2020,No
+6/25/2020,Bluegrass,Madison,Stemco Products Inc,336340,52,Layoff,8/28/2020,No
+6/16/2020,Kentuckianaworks,Jefferson,T-Mobile,517210,127,Layoff,6/16/2020,Yes
+6/15/2020,Northern Kentucky,Boone,RYDER TRUCK-Burlington KY,493110,99,Layoff,8/12/2020,No
+6/15/2020,Kentuckianaworks,Jefferson,Jacobsen|Daniel’s Enterprise Inc.-SDF,488190,5,Layoff,6/12/2020,No
+6/12/2020,Northern Kentucky,Boone,Jacobsen|Daniels Enterprise Inc. - CVG,488190,17,Layoff,6/12/2020,No
+6/9/2020,Northern Kentucky,Boone,Arandell,54130,112,Closure,6/19/2020,No
+6/4/2020,Cumberlands,Wayne,AMERICAN WOODMARK CORPORATION,337110,3,Layoff,5/29/2020,No
+6/1/2020,Northern Kentucky,Boone ,Global Experience Specialists  Exposition Services Inc,561990,47,Layoff,3/15/2020,No
+5/23/2020,Kentuckianaworks,Jefferson ,21c Museum Hotel Louisville - MGallery,721110,117,Layoff,5/15/2020,No
+5/22/2020,Western Kentucky,Christian ,MSSC,332613,170,Layoff,9/30/2020,TBD
+5/22/2020,Bluegrass,Fayette,21c Museum Hotel Lexington,721110,121,Layoff,5/28/2020,No
+5/20/2020,Northern Kentucky,Boone ,Enterprise Holdings,532111,70,Layoff,3/23/2020,No
+5/14/2020,Green River,Hancock ,Dal-Tile Corporation,23840,67,Closure,7/17/2020,No
+5/11/2020,EKCEP,Floyd,Redhawk Mining LLC,213113,182,Layoff,5/14/2020,No
+4/30/2020,South Central,Warren,Atrium Hospitality-Holiday Inn Bowling Green ,151026,100,Layoff,3/12/2020,No
+4/28/2020,South Central,Warren ,Fruit of The Loom,315190,541,Layoff,5/3/2020,No
+4/27/2020,Statewide,Statewide,Bloomin' Brands Inc.,722511,1134,Layoff,3/15/2020,No
+4/27/2020,Cumberlands,Pulaski ,Hendrickson USA,336390,179,Layoff,4/27/2020,No
+4/27/2020,Bluegrass,Fayette ,Copart,423110,50,Closure,4/27/2020,No
+4/27/2020,Green River,Hancock ,Domtar Paper Company LLC,322121,398,Layoff,5/4/2020,No
+4/24/2020,Bluegrass,Fayette ,"EAN Holdings, LLC dba/Enterprise Rent-A-Car/Alamo/National",532111,102,Layoff,3/20/2020,No
+4/24/2020,Kentuckianaworks,Jefferson ,Enterprise Rent-A-Car,532111,118,Layoff,3/20/2020,No
+4/24/2020,Lincoln Trail,Grayson ,"Leggett & Platt, Inc",423210,210,Layoff,4/14/2020,No
+4/24/2020,Kentuckianaworks,Jefferson,Enterprise Rent-A-Car,532111,104,Layoff,4/30/2020,No
+4/23/2020,Statewide,Statewide,"Visionworks, Inc.",446130,269,Layoff,4/4/2020,No
+4/20/2020,Northern Kentucky,Boone,BOGE Rubber & Plastics USA LLC,326220,117,Layoff,3/30/2020,No
+4/17/2020,Northern Kentucky,Boone,AVIS BUDGET CAR RENTAL LLC - CVG,532111,51,Layoff,3/13/2020,No
+4/17/2020,Kentuckianaworks,Jefferson ,AVIS BUDGET CAR RENTAL LLC-Louisville,532111,39,Layoff,3/13/2020,No
+4/17/2020,Bluegrass,Fayette,CLARK Material Handling Company,33392,55,Layoff,4/15/2020,No
+4/15/2020,Bluegrass,Scott,"Leggett & Platt, Inc.",337215,151,Layoff,3/27/2020,No
+4/15/2020,Northern Kentucky,Boone,Jacobsen|Daniels - CVG,488190,17,Layoff,3/27/2020,No
+4/15/2020,Bluegrass,Clark,"Leggett & Platt, Inc.",33791,271,Layoff,3/27/2020,No
+4/14/2020,Kentuckianaworks,Jefferson ,GUESS Distribution Center,423990,230,Layoff,4/2/2020,No
+4/14/2020,Northern Kentucky,Campbell ,Newport Aquarium LLC,712130,88,Layoff,4/20/2020,No
+4/14/2020,Kentuckianaworks,Jefferson,Bedding Acquisition LLC-Hollander Sleep Products,337910,234,Closure,4/3/2020,No
+4/14/2020,Kentuckianaworks,Jefferson,Glidewell Laboratories-Crown World Dental Lab,339116,151,Layoff,3/27/2020,Yes
+4/13/2020,Bluegrass,Madison,Vitro Automotive/Pittsburgh Glass Works,561311,63,Layoff,3/23/2020,No
+4/10/2020,Bluegrass,Boyle,Ephraim McDowell Health,62111,See the Document,Layoff,4/10/2020,No
+4/8/2020,Western Kentucky,Christian,Jennie Stuart Medical Center,62211,248,Layoff,4/7/2020,No
+4/8/2020,Northern Kentucky,Boone,Groupon Goods KY Fulfillment Center,488510,92,Layoff,6/7/2020,No
+4/7/2020,Northern Kentucky,Boone,Safran Landing Systems Kentucky,336413,181,Layoff,4/12/2020,No
+4/7/2020,Northern Kentucky,Boone,HMS Host - CVG Airport,72251,260,Layoff,3/17/2020,No
+4/6/2020,Lincoln Trail,Hardin,Communicare and Communicare Services - Brandenburg,623110,14,Layoff,3/20/2020,No
+4/6/2020,Lincoln Trail,Hardin,Communicare and Communicare Services - Elizabethtown,623110,63,Layoff,3/20/2020,No
+4/6/2020,Lincoln Trail,Washington,Communicare and Communicare Services - Springfield,623110,16,Layoff,3/20/2020,No
+4/6/2020,Lincoln Trail,Marion,Hendrickson,423110,117,Layoff,4/13/2020,No
+4/6/2020,Lincoln Trail,Marion,Communicare and Communicare Clinic - Lebanon,623110,16,Layoff,3/20/2020,No
+4/6/2020,Lincoln Trail,Hardin,Communicare and Communicare Services - Radcliff,623110,17,Layoff,3/20/2020,No
+4/6/2020,Lincoln Trail,Marion,Communicare and Communicare Services - Lebanon,623110,16,Layoff,3/20/2020,No
+4/6/2020,Lincoln Trail,Breckinridge,Communicare and Communicare Clinic LLC - Hardinsburg,623110,14,Layoff,3/20/2020,No
+4/6/2020,Lincoln Trail,Hardin ,Communicare and Communicare Clinic - Radcliff,623110,17,Layoff,3/20/2020,No
+4/6/2020,Lincoln Trail,Nelson,Communicare and Communicare Services - Bardstown,623110,27,Layoff,3/20/2020,No
+4/6/2020,Lincoln Trail,Hardin,Communicare Services - Leitchfield,623110,16,Layoff,3/20/2020,No
+4/6/2020,Statewide,Statewide,HOOTERS of America LLC,722511,293,Layoff,3/16/2020,No
+4/3/2020,EKCEP,Knox,Jackson Warewashing Systems,423440,94,Layoff,4/6/2020,No
+4/2/2020,Kentuckianaworks,Jefferson,SCHULTE COMPANIES,721110,133,Layoff,3/16/2020,No
+4/2/2020,Lincoln Trail,Hardin,IHG Army Hotels & Holiday Inn Express,721110,68,Layoff,3/20/2020,No
+4/2/2020,Western Kentucky,Christian,HUHTAMAKI INC,333999,115,Layoff,4/5/2020,No
+4/1/2020,Green River,Ohio,The Western Kentucky Coal Company,212111,42,Layoff,6/2/2020,No
+4/1/2020,Bluegrass,Bourbon,MURRAY EQUIPMENT & MACHINE INC,333131,11,Closure,6/2/2020,No
+4/1/2020,Western Kentucky,Muhlenberg,THE MUHLENBERG COUNTY COAL COMPANY,21211,254,Closure,6/2/2020,No
+4/1/2020,Kentuckianaworks,Jefferson,Crowne Plaza Hotel,721110,150,Layoff,3/30/2020,No
+4/1/2020,Kentuckianaworks,Jefferson,AJS Hotels,721110,2,Layoff,3/30/2020,No
+4/1/2020,Kentuckianaworks,Jefferson,Galt House Hotel & Suites,721110,399,Layoff,3/30/2020,No
+4/1/2020,Kentuckianaworks,Jefferson,ALJSCO,541611,4,Layoff,3/30/2020,No
+4/1/2020,Kentuckianaworks,Jefferson,Embassy Suites Jefferson Co - Louisville,541611,62,Layoff,3/30/2020,No
+4/1/2020,Kentuckianaworks,Jefferson,Paper Source,424110,10,Layoff,3/29/2020,No
+4/1/2020,Statewide,Statewide,Cinemark USA Inc.,512131,463,Layoff,3/26/2020,No
+3/31/2020,Kentuckianaworks,Jefferson,CONIFER REVENUE CYCLE SOLUTIONS LLC,621999,136,Layoff,5/29/2020,No
+3/31/2020,South Central,Metcalfe,Sumitomo Electric Wiring Systems Edmonton Plant 4,238210,259,Layoff,3/23/2020,No
+3/31/2020,Bluegrass,Woodford,Lakeshore Learning Materials,493110,224,Layoff,4/7/2020,No
+3/31/2020,Kentuckianaworks,Jefferson,Dean Dairy Holding LLC,112990,25,Closure,4/16/2020,Yes
+3/30/2020,Northern Kentucky,Kenton County,Beacon Orthopaedics and Sports Medicine,621112,22,Layoff,3/28/2020,No
+3/30/2020,South Central,Warren,AMERICAS AUTO AUCTION BOWLING GREEN,425120,0,Layoff,3/17/2020,No
+3/24/2020,Northern Kentucky,Boone,Driven Brands Take 5 Oil Change (5 Locations),811118,12,Layoff,3/22/2020,No
+3/23/2020,Kentuckianaworks,Jefferson,STEEL CITY POPS LKY LLC,722511,38,Layoff,3/23/2020,No
+3/20/2020,Bluegrass,Fayette,HILTON LEXINGTON DOWNTOWN HOTEL,561110,117,Layoff,3/20/2020,No
+3/19/2020,Kentuckianaworks,Jefferson,"Trans States Airlines, LLC",488190,46,Closure,4/2/2020,No
+3/10/2020,Kentuckianaworks,Jefferson,Simpler Postage Inc.,561431,32,Closure,5/10/2020,No
+2/25/2020,Western Kentucky,Hopkins,International Automotive Components,336360,111,Layoff,4/18/2020,No
+2/21/2020,Cumberlands,Laurel,"Conduent Federal Solutions, LLC.",58121,99,Layoff,4/25/2020,No
+2/14/2020,Northern Kentucky,Boone,DeliveryForce,492110,24,Layoff,4/16/2020,No
+2/5/2020,Northern Kentucky,Campbell,"IPSCO Tubulars (KY), L.L.C.",425120,87,Layoff,4/5/2020,TBD
+1/31/2020,TENCO,Boyd,"Oour Lady of Bellefonte Hospital, L.L.C.",622000,1226,Closure,3/31/2020,No
+1/28/2020,Western Kentucky,Calloway,Murray State University,611310,65,Layoff,4/10/2020,No
+1/23/2020,Kentuckianaworks,Jefferson,First America/First Transit,485999,177,Layoff,3/31/2020,No
+1/16/2020,South Central,Barren,LSC Communications US,323117,571,Closure,3/16/2020,No
+1/15/2020,Northern Kentucky,Grant,Grant County Foods LLC,424480,80,Closure,3/9/2020,No
+1/15/2020,Northern Kentucky,Kenton,Crosset Company LLC,424990,39,Closure,3/9/2020,No
+1/13/2020,Kentuckianaworks,Shelby ,Ficosa North American Corporation,336390,187,Closure,4/1/2020,No
+12/26/2019,Green River,Ohio,"The Western Kentucky Coal Company, LLC Genesis Mine ",212111,250,Closure,2/24/2020,No
+12/19/2019,Cumberlands,Whitley,PAE Visa Support Services (VSS),561210,425,Layoff,2/28/2020,No
+12/9/2019,Green River,Webster,Webster County Coal Dotiki Mine,212112,40,Closure,2/7/2020,No
+11/19/2019,Lincoln Trail,Grayson,MTD Products Inc,444220,279,Closure,1/17/2020,TBD
+11/15/2019,Western Kentucky,Christian,"Ebonite International, Inc.",453998,171,Closure,1/14/2020,TBD
+11/12/2019,Kentuckianaworks,Shelby ,Bekaert Corporation,331222,100,Closure,1/13/2020,No
+11/4/2019,EKCEP,Leslie,Nally & Hamilton Enterprise Inc Stinnett Mine,212111,21,Layoff,1/1/2020,No
+11/4/2019,EKCEP,Bell,Nally & Hamilton Enterprises Inc Balkan area Mines and Facilities,212111,97,Layoff,1/1/2020,No
+11/4/2019,EKCEP,Harlan,"Nally & Hamilton Enterprises Inc Bailey's Creek, Cranks Creek & Day Branch Mines",212111,38,Layoff,1/1/2020,No
+11/4/2019,EKCEP,Harlan ,Nally & Hamilton Enterprise Inc,212111,5,Layoff,1/1/2020,No
+11/4/2019,Cumberlands,Laurel ,Nally & Hamilton Enterprises Inc Stinnett Mine -London,212111,9,Layoff,1/1/2020,No
+10/29/2019,Western Kentucky,Christian,AECOM,541310,383,Layoff,12/29/2019,No
+9/12/2019,Lincoln Trail,Nelson,INOAC PACKAGING GROUP INC,326160,72,Layoff,11/12/2019,TBD
+9/5/2019,Green River,McLean,Pennyrile Energy LLC- RiverEdge Mine,212112,169,Closure,11/1/2019,No
+9/3/2019,TENCO,Boyd,AK Steel -Ashland Works,331222,260,Closure,11/4/2019,Yes
+8/22/2019,Western Kentucky,Calloway,BRIGGS & STRATTON CORPORATION,333112,628,Closure,9/27/2019,No
+8/1/2019,Kentuckianaworks,Jefferson,FFO Home,442110,52,Closure,10/1/2019,No
+7/30/2019,Northern Kentucky,Campbell,TMK IPSCO Tubulars (KY),425120,159,Layoff,9/24/2019,TBD
+7/22/2019,Bluegrass,Fayette,Red Ventures,524210,94,Layoff,10/31/2019,No
+7/1/2019,EKCEP,Perry,"Sykes Enterprises, Inc.",541910,179,Layoff,9/3/2019,No
+6/21/2019,South Central,Hart,"HOLLANDER SLEEP PRODUCTS, LLC",337910,208,Closure,8/21/2019,No
+6/19/2019,Kentuckianaworks,Jefferson,CEVA LOGISTICS US INC,484121,74,Closure,8/18/2019,No
+5/30/2019,South Central,Simpson,Harman International,334310,158,Closure,8/2/2019,Yes
+5/22/2019,South Central,Warren,Union Underwear Company/ Fruit of The Loom ,315190,100,Layoff,7/22/2019,TBD
+5/6/2019,Northern Kentucky,Kenton ,Concentrix CVG Corp.- formally Convergys,518210,175,Closure,9/30/2019,No
+5/1/2019,Cumberlands,Pulaski ,"New Vista Behavioral Healthcare, Inc",621999,132,Layoff,6/1/2019,No
+4/23/2019,Bluegrass,Fayette ,Continuum Global Solutions,488320,117,Layoff,6/21/2019,No
+4/5/2019,TENCO,Greenup ,CSXT-Russell Locomotive Shop,336510,113,Closure,4/5/2019,No
+3/27/2019,Lincoln Trail,Hardin ,FLINT GROUP,325130,81,Layoff,6/30/2019,TBD
+3/22/2019,Cumberlands,Laurel ,"CONDUENT State & Local Solutions, Inc",58121,97,Layoff,4/21/2019,No
+3/12/2019,Cumberlands,Pulaski,BrightSpring Health Services\ CAKY of Somerset,624120,93,Layoff,4/19/2019,No
+3/12/2019,Kentuckianaworks,Jefferson ,BrightSpring Health Services\ Bingham Gardens,561110,125,Layoff,3/31/2019,No
+2/25/2019,Kentuckianaworks,Jefferson ,Performance Team,541614,42,Layoff,2/20/2019,No
+2/21/2019,Kentuckianaworks,Jefferson ,Jack Cooper Transport Co. Inc,484121,425,Closure,4/21/2019,No
+1/25/2019,Bluegrass,Woodford ,LED VANCE LLC,335110,253,Closure,9/27/2019,Yes
+12/13/2018,Bluegrass,Scott County,"Leggett & Platt, Inc.",337215,146,Layoff,2/14/2019,No
+12/12/2018,Kentuckiana Works,Jefferson County - Louisville,IQOR Global Service LLC,54168,128,Layoff,2/11/2019,No
+11/30/2018,Bluegrass,Fayette County,Piramal Pharma Solutions,325412,38,Layoff,1/29/2019,No
+11/27/2018,Northern Kentucky,Boone,Graham Packaging Company-Florence,326199,57,Closure,1/25/2019,No
+10/31/2018,Northern Kentucky,Boone,Pomeroy Solutions Sales dba Getronics,541511,163,Closure,6/30/2019,TBD
+10/30/2018,Kentuckiana Works,Jefferson County - Louisville,Mondi Industrial Bags,322220,100,Closure,12/31/2018,No
+10/30/2018,Northern Kentucky,Kenton County,Concentrix CVG Corp.- formally Convergys,518210,258,Closure,12/28/2018,No
+10/26/2018,Kentuckiana Works,Jefferson County - Louisville,K&T SWITCHING SERVICE -Fern Valley Road,484121,52,Layoff,12/24/2018,No
+10/26/2018,Kentuckiana Works,Jefferson County - Louisville,K&T SWITCHING SERVICE -Chamberlain Lane,484121,38,Layoff,12/24/2018,No
+10/16/2018,Western Kentucky,Calloway County,Murray State University,611310,44,Layoff,12/14/2018,No
+10/1/2018,Bluegrass,Madison County,Kentucky River Foothills Development Council,813319,142,Layoff,12/31/2018,No
+9/27/2018,Bluegrass,Fayette County,dormakaba USA Inc.,332510,58,Layoff,12/3/2018,TBD
+9/27/2018,Cumberlands,Rockcastle County,Oxford Government Consulting,541611,68,Layoff,11/23/2018,No
+9/27/2018,Kentuckiana Works,Jefferson County - Louisville,Gannett Satellite Information Network,511110,73,Layoff,12/31/2018,No
+8/20/2018,Kentuckiana Works,Jefferson County - Louisville,Werner Co.,331318,118,Closure,10/9/2019,No
+7/26/2018,South Central,Warren County,US BANK -Bowling Green,522110,100,Closure,9/28/2018,No
+7/18/2018,Northern Kentucky,Boone,Taylor & Francis Group LLC,511199,68,Closure,9/28/2018,No
+7/12/2018,Kentuckiana Works,Jefferson County - Louisville,WAL-MART Store #1269,452111,206,Closure,9/14/2018,No
+7/12/2018,Bluegrass,Fayette County,WAL-MART Store #2060,452111,203,Closure,9/14/2018,No
+7/12/2018,Kentuckiana Works,Jefferson County - Louisville,WAL-MART Store #4523,452111,96,Closure,9/14/2018,No
+7/12/2018,Kentuckiana Works,Jefferson County - Louisville,WAL-MART Store #3841,452111,92,Closure,9/14/2018,No
+7/5/2018,Kentuckiana Works,Jefferson County - Louisville,Dean Milk Co,112990,76,Closure,9/7/2018,No
+7/3/2018,Lincoln Trail,Nelson County,American Greetings Corp-Bardstown,511191,275,Closure,9/7/2018,No
+7/2/2018,EKCEP,Perry County,Magic Mart Store #650,452210,29,Closure,10/1/2018,No
+7/1/2018,EKCEP,Pike County,Magic Mart Store #960,452210,31,Closure,10/1/2018,No
+6/14/2018,Kentuckiana Works,Jefferson County - Louisville,Savers,453310,59,Closure,8/12/2018,No
+6/5/2018,Kentuckiana Works,Jefferson County - Louisville,DNR Group LLC-Innovairre,323114,54,Layoff,8/2/2018,No
+5/31/2018,Bluegrass,Jessamine County,ALBAAD USA INC,423450,104,Closure,8/31/2018,TBD
+5/21/2018,Bluegrass,Fayette County,THE BOEING COMPANY-Lexington,,99,Layoff,7/13/2018,No
+5/1/2018,Western Kentucky,Fulton County,Prairie Farms-Fulton,311500,52,Closure,6/30/2018,No
+3/1/2018,Kentuckiana Works,Jefferson County - Louisville,CONIFER REVENUE CYCLE SOLUTIONS LLC,523930,128,Layoff,4/30/2018,No
+2/23/2018,Kentuckiana Works,Jefferson County - Louisville,Flextronics Americas LLC,493110,314,Layoff,9/1/2018,TBD
+2/12/2018,Kentuckiana Works,Bullitt County,GILT Distribution Center,454111,250,Closure,9/28/2018,No
+1/18/2018,Northern Kentucky,Kenton County,Abm Industries Inc./ABM Aviation,488119,65,Layoff,3/7/2018,No
+1/11/2018,Lincoln Trail,Nelson County,American Greetings Corp-Bardstown,511191,150,Layoff,3/16/2018,No
+1/9/2018,TENCO,Boyd County,KES Kentucky Electric Steel,331513,113,Closure,3/10/2018,TBD
+12/18/2017,Western Kentucky,Hopkins County,THOROUGHFARE MINING LLC,1/21/1900,4/8/1900,Closure,2/14/2018,No
+12/18/2017,Western Kentucky,Hopkins County,Hopkins County Coal Madisonville Office,6/24/2483,3/2/1901,Closure,2/14/2018,TBD
+12/13/2017,Cumberlands,Taylor County,Clarcor Air Filtration-Campbellsville,11/6/2812,4/28/1900,Closure,2/12/2018,TBD
+11/7/2017,Bluegrass,Powell County,Scott Archery,8/31/2830,3/28/1900,Closure,1/10/2018,TBD
+10/31/2017,Northern Kentucky,Boone,Arriva Medical LLC,5/13/3059,1/13/1900,Closure,12/31/2017,No
+10/30/2017,Bluegrass,Fayette County,Baptist Health Plan Inc-Lexington,12/21/3602,2/3/1900,Layoff,12/29/2017,No
+10/11/2017,Green River,Ohio County,Armstrong Coal Prep & Dock Facility,2/28/2753,1/12/1900,Layoff,12/8/2017,TBD
+10/11/2017,Green River,Ohio County,Equality  Boot Surface Mine,9/25/2480,3/1/1900,Layoff,12/8/2017,TBD
+8/17/2017,Western Kentucky,McCracken County,LATA SHARP REMEDIATION SERVICES LLC,1/3/3439,1/0/1900,Layoff,10/19/2017,TBD
+8/2/2017,EKCEP,Martin County,Booth Energy,1/1/1900,8/4/1900,Closure,9/30/2017,No
+7/18/2017,Bluegrass,Fayette County,Kmart 04232-Lexington,10/12/2023,3/13/1900,Closure,9/24/2017,No
+7/18/2017,Green River,Daviess County,"Engineered Plastic Components, Inc.",5/26/2812,3/8/1900,Closure,10/18/2017,TBD
+7/10/2017,Green River,Daviess County,BIMBO BAKERIES USA INC,9/15/2753,4/20/1900,Closure,9/8/2017,TBD
+6/28/2017,Bluegrass,Clark County,LEDVANCE LLC-Winchester,9/30/1991,2/23/1900,Closure,9/1/2017,Yes
+5/24/2017,Bluegrass,Fayette County,Charter Commuications -Lexington,12/27/3317,2/25/1900,Layoff,7/17/2017,No
+5/5/2017,Northern Kentucky,Owen County,Itron Inc.,3/21/2552,11/4/1900,Closure,12/31/2017,TBD
+4/27/2017,Bluegrass,Fayette County,General Electric Company- Lexington Lamp Plant,6/30/2817,5/6/1900,Closure,6/23/2017,Yes
+4/20/2017,Western Kentucky,McCracken County,AmerisourceBergen Drug Corporation,12/11/2790,3/16/1900,Closure,6/30/2017,TBD
+4/7/2017,Kentuckiana Works,Jefferson County - Louisville,Ann Taylor Distribution Services,9/8/2022,4/14/1900,Closure,6/9/2017,No
+4/7/2017,EKCEP,Knox County,"Benore Logistic Systems, Inc.",1/31/3250,3/22/1900,Layoff,4/23/2017,TBD
+4/4/2017,Kentuckiana Works,Jefferson County - Louisville,Dollar Express Louisville(2),11/1/2023,1/9/1900,Closure,6/30/2017,No
+4/4/2017,Northern Kentucky,Kenton County,Dollar Express-Covington,11/1/2023,1/11/1900,Closure,6/30/2017,No
+4/4/2017,Kentuckiana Works,Jefferson County - Louisville,Dollar Express Louisville(1),11/1/2023,1/9/1900,Closure,6/30/2017,No
+4/3/2017,Cumberlands,Pulaski County,General Electric Company Somerset Glass Plant Lighting,6/30/2817,3/3/1900,Closure,5/26/2017,Yes
+4/3/2017,Northern Kentucky,Kenton County,Kelly Services-Kenton Co,11/2/3436,2/5/1900,Closure,6/2/2017,TBD
+3/10/2017,Kentuckiana Works,Jefferson County - Louisville,Sypris Technologies,12/31/2820,,Layoff,5/10/2017,TBD
+2/13/2017,EKCEP,Knox County,Conduent Incorporated,10/22/3318,3/2/1900,Layoff,4/12/2017,TBD
+2/13/2017,Kentuckiana Works,Bullitt County,Nasty Gal Inc,1/31/3250,3/10/1900,Closure,4/10/2017,TBD
+1/31/2017,South Central,Warren County,Penske Vehicle Services Inc.,11/21/3356,1/1/1900,Layoff,4/1/2017,No
+1/25/2017,Kentuckiana Works,Jefferson County - Louisville,ZOO PRINTING,8/23/2784,3/28/1900,Closure,6/30/2017,No
+12/12/2016,Northern Kentucky,Boone,Toyota Motor Engineering & Manufacturing,336111,648,Closure,1/3/2017,No
+11/17/2016,KentuckianaWorks,Jefferson,Vantiv,522390,200,Closure,3/31/2017,No
+11/7/2016,EKCEP,Lee,Experience Works,624310,31,Closure,1/30/2017,No
+11/7/2016,South Central,Simpson,Harman International Industries,333430,215,Layoff,1/9/2017,Yes
+9/27/2016,Kentuckianaworks,Jefferson,Glenview Healthcare & Rehabilitation Center,6231,83,Closure,11/27/2016,No
+9/27/2016,Kentuckianaworks,Jefferson,Meadowview Rehab & Wellness,6231,     124 ,Closure,11/27/2016,No
+9/15/2016,Western Kentucky,Marshall,Gerdau Ameristeel US Inc.-Calvert City Mill,33111,138,Closure,11/15/2016,Yes
+9/8/2016,EKCEP,Pike,Alpha Natural Resources - Sidney Coal Company LLC,21,117,Layoff,12/16/2016,TBD
+6/10/2016,Lincoln Trail,Washington,St. Catherine College,611310,120,Closure,7/31/2016,No
+6/9/2016,EKCEP,Floyd,Spurlock Mining LLC,212112,203,Closure,8/7/2016,TBD
+6/6/2016,TENCO,Mason,Federal-Mogul Motorparts,423130,110,Closure,8/1/2016,TBD
+6/3/2016,South Central ,Logan,General Product's,441310,47,Closure,7/1/2016,No
+6/1/2016,Kentuckianaworks,Jefferson,Kindred Nursing and Rehabilitation,6231,152,Closure,8/1/2016,No
+5/31/2016,Cumberlands,Russell,Tantus Tobacco LLC,312230,87,Layoff,8/1/2016,TBD
+5/27/2016,TENCO,Montgomery,Affinity Apparel,448190,TBD,Layoff,7/25/2016,TBD
+5/24/2016,Kentuckianaworks,Jefferson,"ADP Benefits KY, Inc.",,110,Closure,7/22/2016,TBD
+5/13/2016,Cumberlands,  Whitley,Whayne Supply Company,423810,TBD,Layoff,7/15/2016,No
+5/6/2016,Western Kentucky,Graves,Remington Outdoor Company,332994,189,Closure,7/29/2016,TBD
+4/29/2016,Western Kentucky,Muhlenberg,Armstrong Coal- Parkway underground mine,212,86,Closure,6/22/2016,TBD
+4/29/2016,Western Kentucky,Muhlenberg,Armstrong Coal- Parkway Preparation Plant,212,20,Closure,6/22/2016,TBD
+4/28/2016,Bluegrass,Mercer,KeyTronicEMS,334419,73,Closure,6/22/2016,TBD
+4/26/2016,Northern Kentucky,Campbell,IPSCO Tubluars (KY) Inc.,425120,113,Layoff,6/22/2016,Yes
+4/21/2016,Kentuckianaworks,Shelby,Johnson Controls Inc.,336390,122,Closure,6/30/2016,TBD
+4/19/2016,South Central ,Barren,Dana Commercial Vehicle Manufacturing LLC ,336350,191,Closure,6/30/2016,TBD
+4/8/2016,Western Kentucky,Ballard,"Verso Corporation Wickliffe Mill ,                              Beaver Dam Woodyard & Eddyville Woodyard",322121,425,Closure,6/4/2016,Yes
+4/5/2016,Northern Kentucky,Campbell,IPSCO Tubluars (KY) Inc.,425120,6,Layoff,5/31/2016,Yes
+4/4/2016,Kentuckianaworks,Jefferson,"Sodexo,Inc.",722310,215,Closure,5/27/2016,No
+3/23/2016,Bluegrass,Fayette,Lexmark International Inc,33318,143,Layoff,5/25/2016,No
+3/21/2016,Kentuckianaworks,Jefferson,Firstsource Group USA-REVISED,561110,282,Closure,5/19/2016,TBD
+3/9/2016,Northern Kentucky,Boone,Innotrac L.P.'s Facility,541614,338,Closure,5/11/2016,TBD
+3/7/2016,TENCO,Mason,Carmeuse Lime & Stone -Maysville Operation ,212312,76,Layoff,3/11/2016,No
+3/3/2016,Northern Kentucky,Kenton,Convergys Corporation,541613,94,Closure,4/30/2016,No
+3/2/2016,Northern Kentucky,Campbell,IPSCO Tubulars (KY) Inc.,425120,6,Layoff,4/29/2016,TBD
+2/25/2016,Northern Kentucky,Boone,Delta Air Lines,488119,305,Layoff,5/1/2016,No
+2/22/2016,Bluegrass,Bourbon,Hearth & Home Technologies,333414,229,Closure,5/15/2016,TBD
+2/5/2016,Western Kentucky,Hopkins,Warrior Coal LLC,212112,150,Closure,4/5/2016,No
+2/5/2016,Western Kentucky,Hopkins,Hopkins County Coal LLC,212112,253,Closure,4/5/2016,No
+2/1/2016,EKCEP,Perry,Pine Branch Mining LLC,212399,156,Layoff,4/1/2016,No
+1/26/2016,Cumberlands,Laurel,Novitex Government Solutions London,518210,64,Layoff,3/11/2016,No
+1/15/2016,Cumberlands,Wayne,Belden Monticello,33142,230,Closure,8/1/2016,Yes
+1/13/2016,Northern Kentucky,Campbell,"IPSCO Tubulars, (KY) Inc.",425120,126,Layoff,3/9/2016,TBD
+1/11/2016,Northern Kentucky,Boone,SKF USA Inc. Automotive Vehicle Service Market,332991,179,Closure,5/1/2016,No
+12/30/2014,EKCEP ,"Pike, Perry, Whitley, Knox","TECO Coal Coal LLC, & Subsidiaries ",212112, in WARN,Closure,2/12/2015,No
+1/6/2015,Bluegrass,Fayette,"Morgan, Lewis & Bockius LLP ",541110,24,Closure,3/6/2015,No
+1/6/2015,EKCEP,Harlan,"JAD Coal Company, Inc. ",212399,9,Closure,1/23/2015,No
+1/6/2015,EKCEP,Harlan,"Fox Knob Coal Company, Inc.",212111,86,Closure,1/23/2015,No
+1/7/2015,Lincoln Trail,Hardin,Your Community Bank,522110,52,Layoff,3/13/2015,No
+1/8/2015,Cumberlands,Casey,ShopKo Hometown #718,452990,24,Closure,4/15/2015,No
+1/8/2015,Barren River,Hart,ShopKo Hometown #721,452990,20,Closure,4/15/2015,No
+1/8/2015,Lincoln Trail,Larue,ShopKo Hometown #730,452990,22,Closure,4/15/2015,No
+1/8/2015,Kentuckianaworks,Jefferson,Market Day LLC,561499,25,Layoff,3/7/2015,No
+1/16/2015,Bluegrass,Bourbon,"Avantor Performance Materials, Inc.",325411,150,Layoff,3/1/2015,No
+1/28/2015,Bluegrass,Fayette,"Morgan, Lewis & Bockius LLP",541110,76,Closure,04/03/2015 and  06/30/2015,No
+1/30/2015,EKCEP,Harlan,"JAD Coal Company, Inc.",212399,9,Closure,2/13/2015,No
+1/30/2015,EKCEP,Harlan,"Fox Knob Coal Company, Inc. ",212111,86,Closure,2/13/2015,No
+1/30/2015,Western Kentucky,Fulton,"Hospital of Fulton, Inc.   d/b/a  Parkway Regional Hospital",622110,165,Closure,3/31/2015,No
+1/30/2015,Western Kentucky,Fulton,"Hospital of Fulton, Inc., Hillview Medical Clinic ",621111,18,Closure,3/31/2015,No
+2/4/2015,Western Kentucky,Christian,"DynCorp International LLC, U.S. Air Force's 160th  SOAR",928110,296,Layoff,3/31/2015,No
+2/6/2015,Western Kentucky,Union,"Highland Mining Company, LLC ",212112,62,Closure, 04/05/2015 ,No
+2/10/2015,EKCEP,Morgan,"Licking River Mining, LLC ",212112,127,Closure,3/13/2015,No
+2/10/2015,EKCEP,Morgan,"Licking River Resources, Inc. ",212111,8,Closure,3/13/2015,No
+2/10/2015,TENCO,Boyd,"S. M. & J., Inc. ",122102,3,Closure,3/13/2015,No
+2/17/2015,Green River,Union,"Heritage Coal Company, LLC ",213113,2,Closure,4/4/2015,No
+3/20/2015,Barren River,Warren,Fort Dearborn Company,322220,60,Layoff,5/15/2015,Yes
+3/25/2015,EKCEP,Floyd,"Universal Well Services, Inc.",213112,73,Closure,3/25/2015,No
+3/30/2015,Western Kentucky,Muhlenberg,Gourmet Express LLC,454390,98,Closure,5/30/2015,No
+4/8/2015,Northern Kentucky,Boone,DAL Global Services,481111,63,Layoff,4/30/2015,No
+4/10/2015,Bluegrass,Clark,"Quality Manufacturing, Inc. ",334118,62,Layoff,6/29/2015,Yes
+4/10/2015,Bluegrass,Clark,"Quality Manufacturing, Inc. ",334118,4,Layoff,6/29/2015,Yes
+4/13/2015,Northern Kentucky,Campbell,"IPSCO Tubulars, (KY) Inc.",332312,115,Layoff,6/7/2015,No
+4/20/2015,Green River,Union,"Heritage Coal Company, LLC ",213113,2,Closure,4/4/2015,No
+4/20/2015,Green River,Union,"Highland Mining Company, LLC ",212112,37,Closure,5/15/2015,No
+5/12/2015,Northern Kentucky,Campbell,"IPSCO Tubulars, (KY) Inc.",332312,36,Layoff,7/7/2015,No
+5/12/2015,Northern Kentucky,Campbell,"IPSCO Tubulars, (KY) Inc.",332312,115,Layoff,7/8/2015,No
+5/14/2015,EKCEP,Lee,Lee Adjustment Center ,921190,154,Layoff,7/13/2015,No
+5/18/2015,Western Kentucky,Muhlenberg,Gourmet Express LLC,454390,77,Closure,6/26/2015,No
+5/21/2015,Western Kentucky,"Ballard, McCracken","LATA Environmental Services of Kentucky, LLC",334512,Unknown,Layoff,7/25/2015,No
+5/28/2015,EKCEP,Magoffin,Joy Global - Salyersville Operations,333131,38,Layoff,7/24/2015,No
+5/28/2015,Bluegrass,Lincoln,"Brake Parts Inc., LLC",336340,Unknown,Closure,7/31/2015,Yes
+6/2/2015,EKCEP,"Letcher , Pike",RHINO CAM Mining LLC,212112,58,Layoff,8/1/2015,No
+6/5/2015,Bluegrass,Madison,Bechtel Parsons Blue Grass Project,541330,20,Layoff,07/31/2015 and 10/30/2015,No
+6/1/2015,Kentuckianaworks,Jefferson,ResCare,623210,75,Layoff,7/31/2015,No
+6/10/2015,Kentuckianaworks,Bullitt,Chegg,564614,31,Closure,11/1/2015,No
+6/9/2015,Kentuckianaworks,"Jefferson, Bullitt, Shelby","Aramark Healthcare Support Services (""Aramark"") at Kentucky One Health",561720,169,Closure,8/9/2015,No
+6/16/2015,EKCEP, Bell,"Straight Creek Coal Mining, Inc ",211111,70,Closure,8/12/2015,No
+6/19/2015,Northern Kentucky,Campbell,"IPSCO Tubulars, (KY) Inc.",332312,46,Layoff,6/21/2015,No
+6/22/2015,Kentuckianaworks,Jefferson,Discover Home Loans or Discover,522310,187,Closure,8/15/2015,No
+6/24/2015,Kentuckianaworks,Jefferson,Anthem Inc.,524114,57,Closure,7/25/2015,No
+7/7/2015,Bluegrass,Scott,RR Donnelley,32311,91,Closure,9/5/2015,No
+7/7/2015,Northern Kentucky,Campbell,"IPSCO Tubulars, (KY) Inc.",332312,7,Layoff,7/10/2015,No
+7/8/2015,EKCEP,"Harlan,Letcher, (Appalachia VA)",MillBranch Coal Corporation-North Fork Coal Corporation -Pigeon Creek Processing- Maxxim Shared Services -Panther Mine No. 1-Stillhouse No. 1 Mine,21211,292,Closure,9/6/2015,No
+7/13/2015,Northern Kentucky,Campbell,"IPSCO Tubulars, (KY) Inc.",425120,24,Layoff,7/6/2015,No
+7/15/2015,Northern Kentucky,Kenton,"CareCall, Inc",561422,18,Closure,9/13/2015,No
+7/15/2015,Northern Kentucky,Kenton,United Recovery Systems,561440,78,Closure,9/13/2015,No
+7/30/2015,Northern Kentucky,Kenton,HAECO Airframe Services,488190,99,Layoff,9/30/2015,No
+8/17/2015,Cumberlands,Laurel,Coyne Textile Services,812332,Unknown,Closure,10/31/2015,No
+8/31/2015,Green River,Hancock,Century Aluminum of Kentucky -Hawesville ,331313,624,Closure,10/24/2015,TBD
+8/31/2015,EKCEP,"Letcher , Pike",RHINO CAM Mining LLC,212112,92,Layoff,10/30/2015,No
+9/1/2015,Western Kentucky,Ballard,Wickliffe Paper Company LLC-Verso Corp ,322121,310,Layoff,11/1/2015,TBD
+9/23/2015,Kentuckianaworks,Jefferson,Envoy Air,48111,78,Layoff,11/16/2015,No
+10/16/2015,TENCO,Boyd,AK Steel Corporation -Ashland Works,331110,733,Layoff,12/18/2015,TBD
+10/19/2015,TENCO,Montgomery,"Lexington Metal Systems, LLC",336370,100,Layoff,12/19/2015,TBD
+10/20/2015,Cumberlands,Whitley,CSX Transportation Inc.,488510,225,Closure,10/20/2015,TBD
+10/27/2015,TENCO,Boyd,STEIN INC. -Ashland KY Facility,327992,53,Layoff,12/20/2015,TBD
+10/30/2015,EKCEP,Letcher ,"Arch Coal, Inc./Cumberland River Coal Company ",212111,8,Layoff,12/30/2015,No
+10/30/2015,Green River,Henderson,Century Aluminum Sebree LLC ,331313,148,Layoff,12/29/2015,TBD
+11/2/2015,EKCEP,Magoffin,Joy Global - Salyersville Operations,333131,57,Closure,12/28/2015,No
+11/2/2015,Green River,Ohio,Armstrong Coal-Midway Preparation Plant,212111,10,Closure,12/31/2015,No
+11/2/2015,Green River,Ohio,Armstrong Coal-Midway Mine,212111,65,Closure,12/31/2015,No
+11/2/2015,Western Kentucky,Muhlenberg,Armstrong Coal-Parkway Preparation Plant-    Central City,212111,6,Closure,12/31/2015,No
+11/2/2015,Western Kentucky,Muhlenberg,Armstrong Coal-Parkway Mine- Central City,212111,52,Closure,12/31/2015,No
+11/4/2015,Cumberlands,"Adair,Metcalf, Russell",Adair County Hospital District-                               Westlake Regional Hospital,622110,153,Closure,1/4/2016,No
+11/6/2015,Green River,Webster,Sebree Mining LLC,212111,140,Closure,1/6/2016,No
+11/19/2015,EKCEP,Perry/Leslie,Blue Diamond Mining Buckeye Mine Complex,212111,159,Closure,1/19/2016,No
+12/2/2015,Green River,Hancock,Century Aluminum of Kentucky                           (EXTENSION OF CONDITIONAL WARN),331313,225,Layoff,12/2/2015,TBD
+12/29/2015,Kentuckianaworks,Jefferson,"Kentucky Association of Electric Cooperatives, Inc. (KAEC)",335311,94,Layoff,2/28/2016,No
+Greater Louisville,Jefferson,Time Warner Cable (TWC),"4709 Commerce Crossings Drive                                           Louisville, KY 40229",561422,97,Layoff,3/18/2014,No
+Statewide,Statewide,Boeing,,561110,49,Closure,3/4/2014,No
+EKCEP,Breathitt,"Arch Coal, Inc.,  Flint Ridge ","2644 Flint Ridge Rd. Clayhole, KY 41317",322221,131,Closure,,No
+Greater Louisville,Jefferson,"Motorola Solutions, Inc.","7201-A Intermodal Drive Louisville,KY  40258",811211,,Closure,3/28/2014,No
+Statewide,Statewide,"HDA, Inc. and N-Store Merchandising, Inc.","944 Anglum Rd. St. Louis, MO.  63042",425120,,Layoff,2/3/2014,No
+Western Kentucky,Ballard,United States Enrichment Corporation (USEC),"5600 Hobbs Road, Kevil, Kentucky 42001",325199,360,Layoff,4/11/2014,Yes
+Bluegrass,Lincoln,"Brake Parts, Inc., LLC.","101 Industrial Park Dr. Stanford, KY  40484",336340,,Layoff,4/18/2014,Yes
+Cumberlands,Laurel,"General Dynamics Information Technology, Inc.","4550 Old Whitley Rd.  London, KY  40744-8174",541611,271,Layoff,5/9/2014,?
+Greater Louisville,Shelby,Cenveo,"252 Pearce Industrial Rd.  Shelbyville, KY 40065",322230,,Closure,6/4/2041,No
+Cumberlands,Russell,"Union Underwear Co., Inc. d/b/a Fruit of the Loom","2151 N. Main St.  Jamestown, KY 42629",315220/315240,601,Closure,6/8/2014,Yes
+Green River,Hancock,Big Rivers Electric Corp. Coleman Station,"4982 River Rd.  Hwy 334 Hawesville, KY 42348",221121,96,Layoff,5/1/2014,?
+Western Kentucky,Ballard,United States Enrichment Corporation (USEC),"5600 Hobbs Road, Kevil, Kentucky 42001",325199,85,Layoff,6/27/2014,Yes
+Lincoln Trail,Hardin,"Nielsen Company (US), LLC","555 W. Lincoln Trail Blvd. Radcliff, Kentucky  40106",561422,237,Closure,7/31/2014,No
+Barren River,Barren,"Aphena Pharma Solutions, LLC","40 Aberdeen Drive  Glasgow, Kentucky 42141",325412,54,Closure,07/29/2014 thru 09/30/2014,?
+Northern Kentucky,Boone,"Carl Zeiss Vision, Inc.","1050 Worldwide Boulveard  Hebron, Kentucky  41048",333314,67,Closure,Beginning 07/28/2014,?
+Bluegrass,Clark / Montgomery,Regal Beloit,"2001 Owingsville Road Mt. Sterling, Kentucy 40391",336320,242,Closure,Beginning 08/22/2014,Yes
+Bluegrass,Fayette,"Sodexo, Inc.","Commonwealth Stadium 1540 University Drive Lexington, Kentucky 40502",722310,57,Closure,6/30/2014,No
+EKCEP,Harlan,"Harlan-Cumberland Coal Company, LLC","29 Grays Branch Road P.O. Box 269 Grays Knob, Kentucky  40829",213113,92,Layoff,"On or shortly after August 18, 2014",No
+EKCEP,Jackson,BAE Systems,"120 McCammon Ridge Road, McKee, Kentucky 40447 & Jackson Industrial Park  Annville, Kentucky  40402",315210,150,See WARN,"Between June 30, 2014 and July 11, 2014",No
+EKCEP,Letcher,"Cumberland River Coal Company Complex ""CRCC Complex""","US Route 603, Dunbar Road, Appalachia, Virginia  24216",212111,See WARN,Closure,"September 19, 2014, or within the 14-day period after that date",?
+EKCEP,Magoffin,Joy Global - Salyersville Operations,"222 Ward Drive, Salyersville, Kentucky  41465",423810,73,Layoff,22-Sep-14,No
+Western Kentucky,Ballard,United States Enrichment Corporation (USEC),"5600 Hobbs Road, Kevil, Kentucky 42001",325199,375,Layoff,"September 29, 2014, through October 12, 2014",Yes
+Tenco,Mason,Federal - Mogul Corporation,"1151 Morton Lane Maysville, Kentucky  41056",541614,157,Closure,"Q4, 2014 and are expected to end in Q2, 2015",No
+Bluegrass,Fayette,"Bluegrass Family Health, Inc., (""BFH"")","651 Perimeter Drive Lexington, Kentucky 40517",621491,61,Layoff,"21 jobs beginning December 31, 2014,  See WARN",No
+EKCEP,Letcher,"Cumberland River Coal Company Complex ""CRCC Complex""","Route 636 Dunbar Road Appalachia, Virginia  24216",212111,213,Closure,"September 19, 2014/See WARN",No
+Lincoln Trail,Hardin,"Wolverine Services, LLC (an Akima Company)","Fort Knox Logistics Readiness Center (LRC) 1005 Fraizer Road, Building 2778  Fort Knox Kentucky  40121-5000",561210,199,Layoff,30-Nov-14,No
+Bluegrass,Fayette,"Creation Technologies Kentucky, Inc.  (""the Company"")","1729 Jaggie Fox Way  Lexington, Kentucky 40511",333242,204,Closure,"On or about January 31, 2015",Yes
+EKCEP / Cumberlands,"Pike, Perry, Whitley, Knox","TECO Coal Corporations (TECO Diversified, Inc.)","200 Allison Boulevard Corbin, Kentucky  40701",212112,656,Closure,See WARN,No
+EKCEP,Letcher,"Cumberland River Coal Company Complex ""CRCC Complex""","Route 636 Dunbar Road Appalachia, Virginia  24216",212111,See WARN,Closure,See WARN,No
+Bluegrass,Fayette,Lexington Fayette County Health Dept. (LFCHD) HealthFirst Bluegrass Unit,"650 Newtown Pike Lexington, Kentucky 40508-1197",624190,125,Closure,1/31/2015,No
+KentuckianaWorks,Jefferson,"KentuckyOne Health - Jewish Hospital Aramark Healthcare Support Services (""Aramark"")","200 Abraham Flexner Way,  Louisville, Kentucky  40202",561720,144,Closure,1/31/2015,No
+Green River,Union,"Dodge Hill Mining Company, LLC (""Dodge Hill"")","Dodge Hill Mine No. 1 Facility,  P.O. Box 165 Sturgis, Kentucky 42459",21211,135,Layoff,See WARN,No
+Green River,Union,"Heritage Coal Company, LLC (""Heritage"")","Heritage Camp 9 Prep Plant and Heritage Camp 530 French Road, Waverly, Kentucky 42462",21211,66,Layoff,See WARN,No
+Green River,Union,"Highland Mining Company, LLC (""Highland"")","Highland Mine 9, 530 French Road, Waverly, Kentucky  42462",21211,483,Layoff,See WARN,No
+Lincoln Trail,Nelson,"Sykes Enterprise, Incorporated","227 Kentucky Home Square, Bardstown, Kentucky   40004",561422,173,?,27-Feb-15,No
+Lincoln Trail,Hardin,"Akima Support Operations (ASO) 407th FSB, ASC, Logistics Readiness Center (LRC)","1005 Frazier Road, Building2778,  Fort Knox, Kentucky  40121-5000",561210,200,Layoff,14-Feb-15,No
+EKCEP,Pike,Kentucky Fuel Corporation (KFC),"Blevins Operation  State Route 194,  Meta, Kentucky 41501",325199,52,Closure,9-Feb-15,No
+Northern Kentucky,Gallatin,North American Stainless (NAS) Facility                                  HARSCO Metals & Minerals Plant #4 and #68,"6870 Highway 42 East             Warsaw, KY 41095","423510, 423830, 331111",67,Closure,2/25/2014,N
+Green River,Daviess,Unilever                      Owensboro Plant,"1901 Ragu Drive             Owensboro, KY 42302-1907",311412,113,Layoff,3/1/2014,N
+Western Kentucky,Ballard,United State Enrichment Corporation (USEC),"5600 Hobbs Road                   Kevil, KY 42001",325199,110,Layoff,14th - 28th of February 2014,Y
+Green River,Hancock,"Century Aluminum of Kentucky GP                                 ""Hawesville Smelter""","1627 State Road 3543           Hawesville, KY 42348",331319,,Layoff,"03/31/2014, or during the 14-day period (ending 04/14/2014)",N
+Green River,Daviess/ Hancock,"Centrury Aluminum of Kentucky ""CAC""                             ""Owensboro Facility""","115 East Second Street         Suite 200                                     Owensboro, KY 42303",560000,22,Layoff,"03/31/2014, or during the 14-day period (ending 04/14/2014)",N
+Bluegrass,Nicholas,"American Ambulette & Ambulance Swervice, Inc. (""AAA"")","368 1/2 East Main Street      Carlisle, KY 40311",621910,,Closure,12/6/2013,N
+Green River,Henderson,Big Rivers Electric Corporation,"201 Third Street               P.O. Box 24              Henderson, KY 42419-0024",221121,188,Layoff,2/1/2014,N
+Western Kentucky,Ballard,United State Enrichment Corporation (USEC),"Paducah Facility                      5600 Hobbs Road                     Kevil, KY 42001 ",325199,40,Layoff,01/21/2014 - 01/31/2014,Y
+Western Kentucky,Christian,"DynCorp International, LLC ""DI""","1885 Fort Campbell Blvd.   Suite C                                         Clarksville, TN 37042",,,Layoff,12/13/2013,N
+Bluegrass,Fayette,"Pacific Pulmonary Services ""PPS""","2031 Georgetown Road        Suite 125                                    Lexington, KY 40511",561422,101,Layoff,1/3/2014,
+Green River,Henderson,"Century Aluminum Sebree, LLC                                                      ""Sebree Smelter""","9404 State Route 2096     Robards, KY 42452-9735",331319,,Layoff,"01/31/2014, or the 14 days period preceeding 01/31/2014",N
+Greater Louisville,Jefferson,Bank of America              Consumer Banking - Legacy Asset Servicing Unit,"1231 Durrent Lane         Louisville, KY 40213",,55,Layoff,12/22/2013,N
+Greater Louisville,Jefferson,"Laboratory Partners, Inc.           Kilbourne Medical Laboratories","600 Executive Park         Louisville, KY 40207",621511,,Closure/Layoff,12/23/2013,N
+Bluegrass,Fayette,"Laboratory Partners, Inc.           Kilbourne Medical Laboratories","166 Prosperous Place       Lexington, KY 40509",621511,,Closure/Layoff,12/23/2013,N
+Green River,Hancock,"Century Aluminum of Kentucky GP                                 ""Hawesville Smelter""","1627 State Road 3543           Hawesville, KY 42348",331319,686,Layoff,"12/20/2013, or during 14 day period (ending 01/03/2014)",N
+Green River,Daviess,"Century Aluminum Company                                        ""Owensboro Facility""","115 East 2nd Street               Suite 200                                   Owensboro, KY 42303",560000,27,Layoff,"12/20/2013, or during 14 day period (ending 01/03/2014)",N
+EKCEP,Pike,McCoy Elkhorn Coal Corporation,"1148 Long Fork Road       Kimper, KY 41539",212112,,Layoff,10/16/2013,
+Greater Louisville,Jefferson,Discover Home Loans,"9721 Ormbsy Station Road Louisville, KY 40223",522310,142,Layoff,12/12/2013,N
+EKCEP,Harlan/Leslie,Bledsoe Coal Corporation,"Route 2008, Box 351-A     Big Laural, KY 40808",212112,,Closure,12/16/2013,N
+Greater Louisville,Jefferson,"Motorola Solutions, Inc.","7201-A Intermodal Drive    Louisville, KY 40258",811211,42,Closure,Decemeber of 2013,
+Bluegrass,Franklin,GECOM Corporation,"1030 Hoover Blvd.                 Frankfort, KY 40601",336370,5,Layoff,3/31/2014,N
+Western Kentucky,Hopkins,"Borden Dairy Company of Madisonville, LLC                          d/b/a Goldenrod Dairy","234 N Scott Street          Madisonville, KY 42431",424430,,Closure,11/29/2013 - 12/12/2013,N
+EKCEP,Martin,"Excel Mining, LLC                   Van Lear Mine and Pontiki Preparation Plant","9462 Meathouse Road          Pilgrim, Ky 41250   ",212112,125,Closure,12/2/2013,
+Lincoln Trail,Marion,Marion Adjustment Center,"95 Raywick Road                    St. Mary, KY 40063-0010",624310,117,Closure,08/31/2013 - 10/31/2013,N
+Greater Louisville,Jefferson,"Corizon, Inc.",See WARN ,561210,94,Layoff,9/30/2013,N
+EKCEP,Breathitt,"Arch Coal, Inc.                                ICG Hazard, LLC                              Flint Ridge Complex","2644 Flint Ridge Road           Clayhole, KY 41317 ",322221,3,Closure,See WARN ,N
+Green River,Daviess,"Century Aluminum Company                                        ""Owensboro Facility""","115 East 2nd Street               Suite 200                                   Owensboro, KY 42303",560000,22,Layoff,10/18/2013,N
+Green River,Hancock,"Century Aluminum of Kentucky GP                                 ""Hawesville Smelter""","1627 State Road 3543           Hawesville, KY 42348",331319,679,Layoff,10/18/2013,N
+Greater Louisville,Jefferson,"Aramark Healthcare Support Services, LLC","200 Abraham Flexner Way Louisville, KY 40202",722310,241,Closure,10/17/2013,N
+Western Kentucky,Ballard,United State Enrichment Corporation (USEC),"5600 Hobbs Road                   Kevil, KY 42001",325199,100,Layoff,14th - 25th of October 2013,Y
+Greater Louisville,Jefferson,"JCIM US, LLC","8161 National Turnpike       Louisville, KY 40214",326199,20,Closure,8/13/2013,Y
+Greater Louisville,Jefferson,"Motorola Solutions, Inc.","7201-A Intermodal Drive    Louisville, KY 40258",811211,42,Closure,09/27/2013 - 12/27/2013,
+Greater Louisville,Shelby,"NE Opco, Inc. d/b/a National Envelope Corporation","252 Pearce Industrial Road Shelbyville, KY 40065",322230,89,Closure,August or September of 2013,N
+Greater Louisville,Jefferson,"Lightyear Network Solutions, LLC","1901 Eastpoint Parkway      Louisville, KY 40223","517210, 517911, 517919",75,Closure,9/13/2013,N
+Bluegrass,Fayette,"Centene Management Corporation, dba Kentucky Spirit Health Plan","201 E. Main Street                 Suite 500A                                Lexington, KY 40507",621999,145,Closure,08/08/2013 - 12/31/2013,N
+Lincoln Trail,Marion,Marion Adjustment Center,"95 Raywick Road                    St. Mary, KY 40063-0010",624310,167,Closure,8/31/2013,N
+Greater Louisville,Jefferson,"Motorola Solutions, Inc.","7201-A Intermodal Drive    Louisville, KY 40258",811211,56,Closure,08/23/2013 - 10/25/2013,N
+Greater Louisville,Shelby,"NE Opco, Inc. d/b/a National Envelope Corporation","252 Pearce Industrial Road Shelbyville, KY 40065",322230,89,Closure,14-day period following 08/06/2013,N
+Western Kentucky,Ballard,United State Enrichment Corporation (USEC),"5600 Hobbs Road                   Kevil, KY 42001",325199,160,Layoff,08/05/2013 - 08/13/2013,N
+Greater Louisville,Jefferson,"Motorola Solutions, Inc.            ","7201-A Intermodal Drive    Louisville, KY 40258",811211,56,Closure,7/26/2013,N
+Northern Kentucky,Boone,"Motorola Solutions, Inc. ","3000 Kustom Dr.                     Hebron, KY 41048","334118, 334220, 425110, 541511, 551114, 811212",60,Closure,6/30/2013,N
+Western Kentucky,Ballard,"LATA Environmental Services of Kentucky, LLC",See WARN ,334512,145,Layoff,07/03/2013 - 07/02/2014,N
+Bluegrass,Fayette,"Centene Management Corporation, dba Kentucky Spirit Health Plan","201 E. Main Street                 Suite 500A                                Lexington, KY 40507",621999,145,Closure,07/05/2013 - 12/31/2013,N
+Greater Louisville,Jefferson,"JCIM US, LLC","8161 National Turnpike       Louisville, KY 40214",326199,347,Closure,02/04/2013 - 07/05/2013,Y
+Northern Kentucky,Boone,"Motorola Solutions, Inc.          Repair and Order Management","3000 Kustom Dr.                     Hebron, KY 41048","334118, 334220, 425110, 541511, 551114, 811212",50,Closure,6/30/2013,N
+Green River,Hancock,"Century Aluminum of Kentucky GP                                 ""Hawesville Smelter""","1627 State Road 3543           Hawesville, KY 42348",331313,693,Layoff,08/06/2013 - 08/20/2013,N
+Green River,Daviess,"Century Aluminum Company                                        ""Owensboro Facility""","115 East 2nd Street               Suite 200                                   Owensboro, KY 42303",561110,17,Layoff,08/06/2013 - 08/20/2013,N
+Cumberlands,Laurel,"Xerox Business Solutions        CS DHS I-94 Unit, Xerox Federal Solutions, LLC","1084 S. Laurel Rd.                  London, KY 40744-7960",518210,124,Layoff,6/14/2013,N
+Bluegrass,Franklin,GECOM Corporation,"1030 Hoover Blvd.                 Frankfort, KY 40601",336370,85,Layoff,07/01/2013 - 09/01/2013,N
+Greater Louisville,Jefferson,"Gannett Driect Marketing Services, Inc.","340 Robards Court                 Louisville, KY 40218",541613,59,Closure,6/12/2013,N
+Bluegrass,Fayette,"3M, dba Ceradyne ACO (Ceradyne, Inc.)","2416 Merchant Street          Lexington, KY 40511-2602",327420,93,Layoff,6/10/2013,N
+Cumberlands,Whitley,"Serco, Inc.","3505 US HWY 25 W North   Williamsburg, KY 40769-8786",332992,250,Layoff,Unknown,N
+Bluegrass,Bourbon,Joy Global,"100 Main & Stamler Streets                                       Millersburg, KY 40348",333131,147,Closure,50/01/2013 - 10/25/2013,N
+Lincoln Trail,Hardin,"Gunderson Rail Service LLC, dba Greenbrair Rail Services","204 Peterson Dr.                    Elizabethtown, KY 42701",336510,58,Closure,4/30/2013,N
+Greater Louisville,Jefferson,"Fetter Printing Company, Fettergroup","700 Locust Lane                      Louisville, KY 40217","551112, 323110",54,Closure,05/03/2013 - 06/15/2013,N
+Greater Louisville,Jefferson,"JCIM US, LLC","8161 National Turnpike       Louisville, KY 40214",326199,347,Closure,02/04/2013 - 05/05/2013,N
+Barren River,Warren,Conifer Health Solutions,"2413 Nashville Road             Bowling Green, KY 42101",621610,54,Closure,4/1/2013 0:00,N
+Western Kentucky,Hopkins,Community Alternatives KY Madisonville,"170 Bean Cemetery Road   Madisonville, KY ",624190,70,Closure,3/31/2013,N
+Statewide,,The Boeing Company,See WARN ,,2,Closure,3/22/2013,N
+Northern Kentucky,,"Gap, Inc.",See WARN ,493110,363,Closure,4/15/2013,N
+Green River,,"Leggett & Platt, Incorporated","985 West Seventh Street   Beaver Dam, Kentucky 42320",332618,71,Closure,3/8/2013,?
+EKCEP,,Alpha Natural Resources         North Fork Coal Corporation ,"1562 Cloverlick Road  Cumberland, Kentucky",212111,267,Closure,3/5/2013,N
+Statewide,,The Boeing Company,See WARN ,561110,49,Closure,3/4/2013,N

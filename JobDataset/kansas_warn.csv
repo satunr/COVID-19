@@ -1,0 +1,822 @@
+Company,City,Zip Code,LWIB Area,Notice Date
+ABC-NACO  ,Kansas City  ,66105  ,3  ,10/11/2001 
+"ABX Air, Inc.  ",Kansas City  ,66105  ,3  ,11/14/2008 
+Accenture  ,Wichita  ,67226  ,4  ,01/28/2009 
+Accenture  ,Overland Park  ,66210  ,3  ,03/05/2003 
+"Ace Electrical Acquisitions, LLC  ",Columbus  ,66725  ,5  ,07/27/2004 
+ACS Business Process Solutions'  ,Wichita  ,67226  ,4  ,04/01/2005 
+Adjutant General  ,Salina  ,67401  ,1  ,08/23/2013 
+Adronics/Elrob Manufacturing Inc.  ,Hays  ,67601  ,1  ,05/05/2009 
+"Aerospace Logistics Services, LLC  ",Wichita  ,67207  ,4  ,05/09/2014 
+Affiliated Foods  ,Elwood  ,,2  ,02/01/1999 
+"Affliated Foods Midwest Cooperative, Inc.  ",Elwood  ,66024  ,2  ,08/17/2016 
+"Ahern Rentals, Inc  ",Elwood  ,66024  ,2  ,03/28/2020 
+Air Midwest  ,Wichita  ,67209  ,4  ,05/19/2008 
+"Airxcel, Inc - RV Products  ",Wichita  ,67219  ,4  ,04/13/2020 
+Alamo Group  ,Holton  ,66436  ,2  ,12/05/2005 
+Albertsons  ,"Boise, ID  ",83726  ,4  ,04/10/2002 
+Alco  ,Abilene  ,67410  ,1  ,04/09/2013 
+All American Homes of Kansas  ,Osage City  ,66523  ,2  ,10/26/2005 
+Alliant Techsystems Inc  ,DeSoto  ,66018  ,3  ,07/09/2001 
+Allstate Corp  ,Overland Park  ,66210  ,3  ,10/01/1999 
+"Alltell Communications , Inc.  ",Salina  ,67401  ,1  ,03/05/2001 
+Ally Servicing  ,Wichita  ,67207  ,4  ,04/22/2015 
+Alorica  ,Manhattan  ,66503  ,2  ,07/06/2010 
+Amazon  ,Lenexa  ,66219  ,3  ,03/29/2017 
+"Amazon.comKSDC, LLC  ",Coffeyville  ,67337  ,5  ,10/16/2014 
+Amcor  ,Lenexa  ,66215  ,3  ,02/22/2012 
+"Amdocs, Inc.  ",Overland Park  ,66251  ,3  ,12/19/2003 
+American Identity  ,Overland Park  ,66210  ,3  ,01/04/2003 
+"AMG Service, Inc.  ",Overland Park  ,66210  ,3  ,09/05/2013 
+AMPI  ,Hillsboro  ,,1  ,08/04/1998 
+Anadarko Petroleum Corporation  ,Hugoton  ,67950  ,1  ,08/23/2016 
+Anderson Services/Prologix  ,Lenexa  ,66215  ,3  ,02/24/2009 
+Andrews McMeel Publishing  ,Lenexa  ,66219  ,3  ,11/01/2001 
+"Ankmar, LLC  ",Kansas City  ,661061127  ,3  ,08/08/2007 
+Anthem  ,Overland Park  ,66210  ,3  ,10/18/2018 
+APAC Customer Services  ,Deerfield  ,60015  ,4  ,04/27/2006 
+"APAC Customer Services, Inc.  ",Wichita  ,67204  ,4  ,07/29/2005 
+APL Logistics  ,Wichita  ,67215  ,4  ,10/08/2008 
+Aramark Education  ,Junction City  ,66441  ,2  ,04/11/2011 
+"ARAMARK Healthcare Support Services, LLC  ",Wichita  ,67214  ,4  ,05/28/2013 
+Archer Daniels Midland Company  ,Olathe  ,660619406  ,3  ,11/08/2006 
+Archer Daniels Midland Company  ,Hutchinson  ,67501  ,1  ,10/18/2002 
+Armed Forces Bank  ,Leavenworth  ,66048  ,3  ,06/29/2015 
+"Armour-Eckrich Meats, LLC  ",Kansas City  ,66110  ,3  ,02/01/2007 
+Arrow Electronics  ,Lenexa  ,66219  ,3  ,10/12/2006 
+Arvos  ,Concordia  ,66901  ,1  ,04/26/2016 
+Arvos Group  ,Concordia  ,66901  ,1  ,05/09/2016 
+"ASF-Keystone, Inc.  ",McPherson  ,67460  ,1  ,03/16/2001 
+"Associated Wholesale Grocers, Inc.  ","Kansas City, KS  ",66110  ,3  ,02/02/2000 
+Asurion  ,Salina  ,67401  ,1  ,8/4/2011
+AT&T  ,Wichita  ,67202  ,4  ,10/02/2017 
+Athene  ,Topeka  ,66612  ,2  ,01/23/2014 
+Avery Dennison  ,Wichita  ,67213  ,4  ,10/23/2003 
+Bank of America  ,Wichita  ,67201  ,4  ,06/13/2002 
+Bank of America  ,Wichita  ,67201  ,4  ,07/23/2002 
+Bank of America  ,Wichita  ,67201  ,4  ,12/01/2010 
+Beaty Brands  ,Lenexa  ,66219  ,3  ,01/04/2019 
+Bechtel Power Corporation  ,Burlington  ,66839  ,5  ,02/20/2014 
+Beechcraft Corp  ,Wichita  ,67206  ,4  ,07/12/2013 
+Beechcraft Corp  ,Wichita  ,67206  ,4  ,03/22/2013 
+Beef Products Inc.  ,Holcomb  ,67851  ,1  ,03/26/2012 
+Best Western International  ,Wichita  ,67226  ,4  ,12/15/2001 
+Bic Graphic  ,Atchison  ,66002  ,2  ,05/05/2009 
+Big Sky Distributors  ,Leawood  ,66224  ,3  ,12/11/2006 
+Bimbo Bakeries (Earthgrains Baking Company)  ,Wichita  ,67217  ,4  ,01/03/2014 
+Black Bear Diner  ,Olathe  ,66062  ,3  ,04/09/2020 
+Blount International Inc.  ,Portland  ,972692127  ,5  ,06/29/2006 
+BlueCross BlueShield of Kansas  ,Topeka  ,66629  ,2  ,12/03/2007 
+BlueCross BlueShield of Kansas City  ,Leawood  ,662061946  ,3  ,11/07/2008 
+BlueCross BlueShield of Kansas City  ,Leawood  ,66206  ,3  ,02/25/2010 
+Boehringer Ingelheim  ,Elwood  ,66024  ,2  ,10/28/2010 
+Boeing  ,Wichita  ,66210  ,4  ,11/19/2010 
+Boeing  ,Wichita  ,66210  ,4  ,12/17/2010 
+Boeing  ,Wichita  ,66210  ,4  ,01/21/2011 
+Boeing  ,Wichita  ,66210  ,4  ,02/18/2011 
+Boeing  ,Wichita  ,66210  ,4  ,05/21/2010 
+Boeing  ,Wichita  ,66210  ,4  ,06/18/2010 
+Boeing  ,Wichita  ,66210  ,4  ,07/23/2010 
+Boeing  ,Topeka  ,66210  ,4  ,08/20/2010 
+Boeing  ,Wichita  ,66210  ,4  ,09/17/2010 
+Boeing  ,Wichita  ,66210  ,4  ,10/15/2010 
+Boeing  ,Wichita  ,66210  ,4  ,03/19/2010 
+Boeing  ,Wichita  ,66210  ,4  ,12/18/2009 
+Boeing  ,Wichita  ,66210  ,4  ,01/15/2010 
+Boeing  ,Wichita  ,66210  ,4  ,02/19/2010 
+Boeing  ,Wichita  ,66210  ,4  ,04/16/2010 
+Boeing  ,Wichita  ,66210  ,4  ,08/21/2009 
+Boeing  ,Wichita  ,66210  ,4  ,09/18/2009 
+Boeing  ,Wichita  ,66210  ,4  ,10/30/2009 
+Boeing  ,Wichita  ,66210  ,4  ,11/20/2009 
+Boeing  ,Wichita  ,66210  ,4  ,02/17/2012 
+Boeing  ,Wichita  ,67210  ,4  ,01/20/2012 
+Boeing  ,Wichita  ,67210  ,4  ,12/16/2011 
+Boeing  ,Wichita  ,67210  ,4  ,02/03/2012 
+Boeing  ,Wichita  ,67201  ,4  ,03/23/2012 
+Boeing  ,Wichita  ,67207  ,4  ,04/20/2012 
+Boeing  ,Wichita  ,67207  ,4  ,05/18/2012 
+Boeing  ,Wichita  ,67207  ,4  ,06/29/2012 
+Boeing  ,Wichita  ,67207  ,4  ,07/20/2012 
+Boeing  ,Wichita  ,67207  ,4  ,06/22/2012 
+Boeing  ,Wichita  ,67207  ,4  ,08/17/2012 
+Boeing  ,Wichita  ,67210  ,4  ,08/19/2011 
+Boeing  ,Wichita  ,67210  ,4  ,09/16/2011 
+Boeing  ,Wichita  ,66210  ,4  ,06/17/2011 
+Boeing  ,Wichita  ,66210  ,4  ,07/01/2011 
+Boeing  ,Wichita  ,66210  ,4  ,06/03/2011 
+Boeing  ,Wichita  ,67210  ,4  ,07/22/2011 
+Boeing  ,Wichita  ,67210  ,4  ,09/30/2011 
+Boeing  ,Wichita  ,67210  ,4  ,10/14/2011 
+Boeing  ,Wichita  ,67210  ,4  ,10/28/2011 
+Boeing  ,Wichita  ,67210  ,4  ,11/18/2011 
+Boeing  ,Wichita  ,662107730  ,4  ,11/24/2008 
+Boeing  ,Wichita  ,66210  ,4  ,02/24/2009 
+Boeing  ,Wichita  ,66210  ,4  ,03/23/2009 
+Boeing  ,Wichita  ,662107730  ,4  ,01/19/2009 
+Boeing  ,Wichita  ,66210  ,4  ,06/19/2009 
+Boeing  ,Wichita  ,66210  ,4  ,07/17/2009 
+Boeing  ,Wichita  ,66210  ,4  ,05/21/2009 
+Boeing  ,Wichita  ,66210  ,4  ,04/20/2009 
+Boeing  ,Wichita KS  ,67277  ,4  ,10/05/1999 
+Boeing  ,Wichita  ,67277  ,4  ,10/07/2002 
+Boeing  ,Wichita  ,67277  ,4  ,01/20/2003 
+Boeing  ,Wichita  ,67277  ,4  ,01/17/2000 
+Boeing  ,Wichita  ,66277  ,4  ,12/14/1999 
+Boeing  ,Wichita  ,67277  ,4  ,09/19/2003 
+Boeing  ,Wichita  ,67277  ,4  ,10/10/2003 
+Boeing  ,Wichita  ,67277  ,4  ,06/23/2003 
+Boeing  ,Wichita  ,67277  ,4  ,07/21/2003 
+Boeing  ,Wichita  ,67277  ,4  ,08/22/2003 
+Boeing  ,Wichita  ,67277  ,4  ,10/24/2003 
+Boeing  ,Wichita  ,67277  ,4  ,12/19/2003 
+Boeing  ,Wichita  ,67277  ,4  ,11/21/2003 
+Boeing  ,Wichita  ,67277  ,4  ,04/21/2003 
+Boeing  ,Wichita  ,67277  ,4  ,05/23/2003 
+Boeing  ,Wichita  ,67277  ,4  ,05/21/2004 
+Boeing  ,Wichita  ,67277  ,4  ,02/20/2004 
+Boeing  ,Wichita  ,67277  ,4  ,04/16/2004 
+Boeing  ,Wichita  ,67277  ,4  ,06/18/2004 
+Boeing  ,Wichita  ,67207  ,4  ,09/20/2013 
+Boeing  ,Wichita  ,67207  ,4  ,01/17/2014 
+Boeing  ,Wichita  ,67207  ,4  ,10/11/2013 
+Boeing  ,Wichita  ,67207  ,4  ,11/01/2013 
+Boeing  ,Wichita  ,67207  ,4  ,11/22/2013 
+Boeing  ,Wichita  ,67207  ,4  ,12/20/2013 
+Boeing  ,Wichita  ,67207  ,4  ,02/01/2014 
+Boeing  ,Wichita  ,67207  ,4  ,02/14/2014 
+Boeing  ,Wichita  ,67207  ,4  ,05/23/2014 
+Boeing  ,Wichita  ,67207  ,4  ,06/20/2014 
+Boeing  ,Wichita  ,67207  ,4  ,03/21/2014 
+Boeing  ,Wichita  ,67207  ,4  ,04/18/2014 
+Boeing  ,Wichita  ,67207  ,4  ,04/19/2013 
+Boeing  ,Wichita  ,67207  ,4  ,02/01/2013 
+Boeing  ,Wichita  ,67207  ,4  ,02/15/2013 
+Boeing  ,Wichita  ,67207  ,4  ,03/22/2013 
+Boeing  ,Wichita  ,67207  ,4  ,01/18/2013 
+Boeing  ,Wichita  ,67207  ,4  ,07/19/2013 
+Boeing  ,Wichita  ,67207  ,4  ,08/23/2013 
+Boeing  ,Wichita  ,67207  ,4  ,06/21/2013 
+Boeing  ,Wichita  ,67207  ,4  ,05/17/2013 
+Boeing  ,Wichita  ,67207  ,4  ,09/14/2012 
+Boeing  ,Wichita  ,67207  ,4  ,10/12/2012 
+Boeing  ,Wichita  ,67207  ,4  ,11/02/2012 
+Boeing  ,Wichita  ,67207  ,4  ,11/08/2012 
+Boeing  ,Wichita  ,67207  ,4  ,11/21/2012 
+Boeing  ,Wichita  ,67207  ,4  ,12/21/2012 
+Boeing  ,Wichita  ,67207  ,4  ,07/17/2015 
+Boeing  ,Wichita  ,67207  ,4  ,04/17/2015 
+Boeing  ,Wichita  ,67207  ,4  ,02/20/2015 
+Boeing  ,Wichita  ,67207  ,4  ,10/10/2014 
+Boeing  ,Wichita  ,67207  ,4  ,07/18/2014 
+Boeing  ,Wichita  ,67207  ,4  ,08/22/2014 
+Boeing  ,Wichita  ,67207  ,4  ,09/19/2014 
+Boeing  ,Wichita  ,67207  ,4  ,10/31/2014 
+Boeing  ,Wichita  ,67207  ,4  ,11/21/2014 
+Boeing  ,Wichita  ,67207  ,4  ,01/16/2015 
+Boeing Co.  ,Wichita  ,,4  ,11/30/1998 
+Boeing Co.  ,Wichita  ,,4  ,11/30/1998 
+Boeing Co.  ,Wichita  ,,4  ,11/30/1998 
+Boeing Co.  ,Wichita  ,,4  ,11/30/1998 
+Boeing Co.  ,Wichita  ,,4  ,11/30/1998 
+Boeing Co.  ,Wichita  ,,4  ,11/30/1998 
+Boeing Co.  ,Wichita  ,,4  ,11/30/1998 
+Boeing Commercial Airplane Group  ,Wichita  ,66277  ,4  ,11/30/1998 
+Boeing Commercial Airplane Group  ,Wichita  ,66277  ,4  ,06/14/1999 
+Boeing Commercial Airplane Group  ,Wichita  ,66277  ,4  ,07/12/1999 
+Boeing Company  ,Wichita  ,67277  ,4  ,12/19/2002 
+Boeing Company  ,Wichita KS  ,67277  ,4  ,09/03/1999 
+Boeing Company  ,Wichita  ,67210  ,4  ,04/22/2002 
+Boeing Company  ,Wichita  ,67277  ,4  ,07/22/2002 
+Boeing Company  ,Wichita  ,67277  ,4  ,03/24/2003 
+Boeing Company  ,Wichita  ,67277  ,4  ,02/17/2003 
+Bombardier  ,Wichita  ,67209  ,4  ,12/02/2003 
+Bombardier  ,Wichita  ,67209  ,4  ,11/21/2003 
+Bombardier  ,Wichita  ,67277  ,4  ,12/08/2003 
+Bombardier  ,Wichita  ,67277  ,4  ,06/29/2004 
+Bombardier  ,Wichita  ,67209  ,4  ,04/05/2004 
+Bombardier  ,Wichita  ,67277  ,4  ,01/07/2004 
+Bombardier  ,Wichita  ,67209  ,4  ,11/12/2004 
+Bombardier  ,Wichita  ,67277  ,4  ,09/13/2004 
+Bombardier  ,Wichita  ,67209  ,4  ,01/24/2005 
+Bombardier  ,Wichita  ,67209  ,4  ,10/09/2004 
+Bombardier  ,Wichita  ,67209  ,4  ,12/15/2004 
+Bombardier  ,Wichita  ,67209  ,4  ,02/04/2004 
+Bombardier/Learjet  ,Wichita  ,67209  ,4  ,07/09/2004 
+Bombardier/Learjet  ,Wichita  ,67209  ,4  ,01/30/2003 
+Bombardier/Learjet  ,Wichita  ,67209  ,4  ,11/05/2002 
+Bombardier/Learjet  ,Wichita  ,67209  ,4  ,11/12/2002 
+Bombardier/Learjet  ,Wichita  ,67209  ,4  ,11/22/2002 
+Bombardier/Learjet  ,Wichita  ,67209  ,4  ,12/20/2002 
+Bombardier/Learjet  ,Wichita  ,67209  ,4  ,10/03/2002 
+Bombardier/Learjet  ,Wichita  ,67209  ,4  ,10/04/2002 
+Bombardier/Learjet  ,Wichita  ,67209  ,4  ,10/10/2002 
+Bombardier/Learjet  ,Wichita  ,67209  ,4  ,10/23/2002 
+Bombardier/Learjet  ,Wichita  ,67209  ,4  ,10/23/2002 
+Bosselman Travel Center  ,Salina  ,67401  ,1  ,11/04/2011 
+"Bosselman Travel Centers, Inc.  ",Colby  ,67701  ,1  ,11/04/2011 
+Brinks Home Security  ,St. Marys  ,66536  ,2  ,04/14/2020 
+Brinks Home Security  ,St. Marys  ,66536  ,2  ,11/06/2018 
+Brooke Capital Corporation  ,Overland Park  ,66210  ,3  ,06/06/2008 
+Brooke Capital Corporation  ,Overland Park  ,66210  ,3  ,05/05/2008 
+Builder's Square  ,Lenexa  ,66215  ,3  ,09/10/1999 
+Builders Square  ,Wichita KS  ,67209  ,3  ,06/14/1999 
+Builders Square  ,Wichita KS  ,67039  ,3  ,06/14/1999 
+Burlington Northern Santa Fe Railway  ,Topeka  ,66612  ,2  ,02/21/2002 
+"Candlewood Hotel Company, Inc.  ",Wichita  ,67202  ,4  ,11/03/2003 
+Capgemini  ,Leawood  ,66211  ,3  ,11/18/2004 
+Capital One  ,Overland Park  ,662132623  ,3  ,12/01/2008 
+"Cardinal Brands, Inc.  ",Topeka  ,66603  ,2  ,04/19/2007 
+Cargill  ,Topeka  ,66607  ,2  ,09/30/2010 
+"CDG Management, LLC  ",Topeka  ,66611  ,2  ,03/17/2009 
+"CDG Management, LLC  ",Parsons  ,67357  ,5  ,10/08/2008 
+Central Credit Services LLC  ,Overland Park  ,66211  ,3  ,09/01/2017 
+Central Kansas Medical Center  ,Great Bend  ,67530  ,1  ,01/03/2011 
+Cerner  ,Kansas City  ,66111  ,3  ,11/12/2019 
+CertainTeed  ,Valley Forge  ,19482  ,1  ,10/31/2006 
+CertainTeed Corporation  ,McPherson  ,67460  ,1  ,10/31/2006 
+Cessna  ,Wichita  ,67215  ,4  ,12/01/2008 
+Cessna  ,Wichita  ,67277  ,4  ,02/26/2009 
+Cessna  ,Wichita  ,67215  ,4  ,01/29/2009 
+Cessna  ,Wichita  ,67277  ,4  ,06/05/2009 
+Cessna  ,Wichita  ,67277  ,4  ,04/29/2009 
+Cessna  ,Wichita  ,67277  ,4  ,08/14/2009 
+Cessna  ,Wichita  ,67277  ,4  ,06/19/2009 
+Cessna  ,Wichita  ,67277  ,4  ,12/10/2010 
+Cessna  ,Wichita  ,67277  ,4  ,10/08/2010 
+Cessna  ,Wichita  ,67277  ,4  ,12/11/2009 
+Cessna  ,Wichita  ,67277  ,4  ,10/09/2009 
+Cessna  ,Wichita  ,67277  ,4  ,03/26/2010 
+Cessna  ,Wichita  ,67277  ,4  ,04/15/2011 
+Cessna  ,Wichita  ,67215  ,4  ,08/29/2003 
+Cessna  ,Wichita  ,67215  ,4  ,03/07/2003 
+Cessna  ,Wichita  ,67215  ,4  ,04/10/2003 
+Cessna  ,Wichita  ,67215  ,4  ,12/16/2002 
+Cessna of Independence  ,Independence  ,67301  ,5  ,10/24/2001 
+CGI Federal Inc.  ,Ft. Riley  ,66552  ,2  ,12/23/2010 
+Chef Solutions  ,Baxter Springs  ,66713  ,5  ,11/29/2011 
+Chrysler Financial  ,Overland Park  ,66223  ,3  ,06/29/2009 
+CHS Inc.  ,Hutchinson  ,67501  ,1  ,12/01/2017 
+Cinemark USA Inc.  ,Merriam  ,66202  ,3  ,03/26/2020 
+"City Publishing Company, Inc.  ",Independence  ,67301  ,5  ,10/03/2002 
+Classic Cable  ,Plainville  ,67663  ,1  ,01/02/2001 
+CNA INSURANCE  ,OVERLAND PARK  ,66210  ,3  ,02/06/2002 
+CNH America LLC  ,Wichita  ,67215  ,4  ,04/03/2009 
+"Coca-Cola Enterprises, Inc.  ",Wichita  ,67211  ,4  ,07/30/2009 
+Coleman Company  ,Wichita  ,67219  ,4  ,10/20/2011 
+Colgate-Palmolive  ,Kansas City  ,66101  ,3  ,09/15/2006 
+College Meadows Hospital  ,Lenexa  ,66215  ,3  ,06/01/1999 
+Collins Industries  ,Hutchinson  ,67501  ,1  ,01/09/2007 
+Community Solutions Inc.  ,Wichita  ,67214  ,4  ,08/03/2005 
+Concentrix  ,Wichita  ,67209  ,4  ,02/27/2020 
+Concentrix CVG Corporation  ,Olathe  ,66062  ,3  ,03/25/2019 
+Consolidated Container Company  ,Kansas City  ,66105  ,3  ,03/31/2005 
+Consolidated Freightways  ,Vancouver  ,98684  ,2  ,08/29/2002 
+Continental Grain Co.  ,Atchinson  ,,2  ,01/12/1999 
+Continental Grain Co.  ,Overland Park  ,,3  ,01/12/1999 
+Convergent Label Technology  ,Lenexa  ,66219  ,3  ,11/05/2001 
+Convergys  ,Wichita  ,67207  ,4  ,03/07/2012 
+Convergys  ,Wichita  ,67207  ,4  ,05/19/2015 
+Cornerstones of Care  ,Overland Park  ,66213  ,3  ,08/17/2017 
+Cosentino's Food Stores/Price Chopper  ,Kansas City  ,64133  ,3  ,09/08/2006 
+"Cowley Distributing, Inc  ",Lenexa  ,66215  ,3  ,10/29/2019 
+"Cowley Distributing, Inc.  ",Wichita  ,67216  ,4  ,10/29/2019 
+Cox Communications  ,Wichita  ,67226  ,4  ,03/03/2014 
+CSC Applied Technology Group  ,Ft. Riley  ,66442  ,2  ,05/31/2011 
+CSRA  ,Ft. Riley  ,66442  ,2  ,08/01/2018 
+"CST Industries, Inc.  ",Kansas City  ,66106  ,3  ,12/03/2004 
+CT General Life Insurance Company  ,Fort Scott  ,66701  ,5  ,03/15/2010 
+Davol Inc.  ,Lawrence  ,66046  ,2  ,08/07/2002 
+Day & Zimmerman  ,Parsons  ,67357  ,5  ,02/21/2011 
+Day & Zimmerman  ,Parsons  ,67357  ,5  ,10/14/2010 
+Day & Zimmerman  ,Parsons  ,67357  ,5  ,12/01/2011 
+DB Schenker Inc  ,Wichita  ,67210  ,4  ,05/12/2020 
+Dean & Deluca  ,Lenexa  ,66209  ,3  ,05/10/2018 
+Dearborn Mid-West Conveyor Co.  ,Kansas City  ,66111  ,3  ,07/25/2002 
+Deluxe Check Corporation  ,Lenexa  ,66219  ,3  ,08/01/2001 
+Detroil Diesel  ,Emporia  ,66801  ,5  ,08/19/2009 
+Detroit Diesel  ,Emporia  ,66801  ,5  ,09/24/2009 
+Detroit Diesel Remanufacturing  ,Emporia  ,66801  ,5  ,02/18/2020 
+Detroit Diesel Remanufacturing LLC  ,Emporia  ,66801  ,5  ,03/30/2020 
+"Digital Ally, Inc.  ",Lenexa  ,66219  ,3  ,11/17/2017 
+Dillard's Inc.  ,Mission  ,66205  ,3  ,08/25/2005 
+Dilliards  ,Hutchinson  ,66502  ,1  ,03/15/2012 
+Dillions Grocery  ,Independence  ,67301  ,5  ,11/20/2001 
+Dillon Stores  ,Olathe  ,66061  ,3  ,01/29/2008 
+Dillon Stores  ,Shawnee  ,66216  ,3  ,01/29/2008 
+"Disney Shopping, Inc.  ",Overland Park  ,66207  ,3  ,10/27/2005 
+Durham School Services  ,Merriam  ,66203  ,3  ,03/28/2009 
+Durham School Services  ,Lansing  ,66043  ,3  ,04/28/2011 
+Durham School Services  ,Wichita  ,67218  ,4  ,03/24/2010 
+Durham School Services  ,Topeka  ,66612  ,2  ,04/25/2018 
+Eaton Corporation  ,Hutchinson  ,67502  ,1  ,08/28/2006 
+Eaton Corporation  ,Hutchinson  ,67501  ,1  ,
+EC Manufacturing  ,Shawnee  ,66227  ,3  ,09/30/2015 
+EFTC Midwest Facility  ,Ottawa  ,66067  ,2  ,02/06/2002 
+EFTC Midwest Facility  ,Ottawa  ,66067  ,2  ,07/02/2001 
+Elmore's Grocery  ,Coffeyville  ,67337  ,5  ,10/17/2005 
+Embarq  ,Kansas City  ,66031  ,3  ,06/12/2008 
+"Empire Today, LLC  ",Junction City  ,66441  ,2  ,03/17/2009 
+Emporia Rehabilitation Center  ,Emporia  ,66801  ,5  ,02/18/2003 
+"Encore Receivable Management, Inc.  ",Olathe  ,66062  ,3  ,11/29/2010 
+Enterprise Holdings  ,Merriam  ,66203  ,3  ,04/29/2020 
+Enterprise Holdings  ,Wichita  ,67209  ,4  ,05/05/2020 
+Equifax  ,Overland Park  ,66212  ,3  ,04/01/1999 
+Everest Connections  ,Lenexa  ,66219  ,3  ,02/07/2003 
+Exide Technologies  ,Kansas City  ,66115  ,3  ,05/21/2020 
+Exide Technoloies  ,Salina  ,67401  ,1  ,05/22/2020 
+Famous Brands Distributors  ,Topeka  ,66611  ,2  ,03/12/2003 
+Farmland  ,Coffeyville  ,67337  ,5  ,10/17/2003 
+Farmland  ,Coffeyville  ,67337  ,5  ,10/16/2003 
+Farmland Foods  ,Topeka  ,66607  ,2  ,07/30/2001 
+"Farmland Industries, Inc.  ",Lawrence KS  ,66044  ,2  ,07/01/1999 
+Farmland Industries-Lawrence  ,Lawrence  ,66046  ,2  ,05/01/2001 
+Farmland Industries-Lawrence  ,Lawrence  ,66046  ,2  ,01/10/2002 
+FBD Consulting Company  ,Overland Park  ,66211  ,3  ,11/22/2005 
+First Horizon  ,Overland Park  ,66211  ,3  ,10/16/2007 
+First Student  ,Overland Park  ,66212  ,3  ,05/04/2011 
+Flair Fold  ,Hiawatha  ,,2  ,02/18/1999 
+Fleming  ,Topeka  ,66603  ,2  ,07/10/2003 
+Fleming  ,Kansas City  ,66106  ,3  ,02/24/2003 
+Food Services Inc. of Gainesville  ,Ft. Riley  ,66442  ,2  ,06/07/2011 
+Galileo International  ,Olathe  ,66062  ,3  ,03/24/2005 
+General Dynamics Information Technology  ,Lawrence  ,66046  ,2  ,02/27/2014 
+"General Motors, LLC  ",Kansas City  ,66115  ,3  ,06/16/2017 
+"Genmar Manufacturing of Kansas, L.L.C.  ",Junction City  ,66441  ,2  ,03/18/2002 
+Gilliland Printing  ,Arkansas City  ,,4  ,03/26/1999 
+Globe Aviation Services Corp.  ,Wichita  ,67209  ,4  ,09/17/2002 
+Graham Packaging Plastic Products Inc.  ,Kansas City  ,66105  ,3  ,08/26/2013 
+Great American Supplemental Benefits Group  ,Mission  ,66202  ,3  ,11/30/2007 
+"Great Bend Manufacturing Co. - Div. of Bush Hog, L  ",Great Bend  ,67530  ,1  ,02/21/2002 
+Great Bend Packing Plant  ,Great Bend  ,67530  ,1  ,05/08/2009 
+Great Southern Bank  ,Paola  ,66071  ,5  ,04/21/2009 
+Greater Wichita YMCA  ,Wichita  ,67202  ,4  ,03/20/2020 
+"Grede Foundries, Inc.  ",Wichita  ,66211  ,4  ,05/04/2009 
+"Grede Foundries, Inc.  ",Wichita  ,67211  ,4  ,01/07/2010 
+Guidant Sales Corporation  ,Overland Park  ,66213  ,3  ,07/29/2004 
+Guidant Sales Corporation  ,Overland Park  ,66213  ,3  ,08/05/2004 
+Guidant Sales Corporation  ,Overland Park  ,66213  ,3  ,08/06/2004 
+Guidant Sales Corporation  ,Overland Park  ,66213  ,3  ,08/09/2004 
+Guidant Sales Corporation  ,Overland Park  ,66213  ,3  ,08/10/2004 
+Haldex Brake Products Corporation  ,Iola  ,66749  ,5  ,07/15/2010 
+Hallmark  ,Topeka  ,66607  ,2  ,10/29/2012 
+Halstead Hospital  ,Halstead  ,67056  ,1  ,02/14/2000 
+Harrington-Scanlon Roofing Co. Inc.  ,Kansas City  ,66103  ,3  ,07/13/2004 
+Harte Hanks  ,Shawnee  ,66214  ,3  ,03/24/2014 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,10/15/2012 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,06/21/2012 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,09/21/2012 
+Hawker Beechcraft  ,Wichita  ,67206  ,4  ,11/09/2012 
+Hawker Beechcraft  ,Wichita  ,67206  ,4  ,01/28/2013 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,07/23/2010 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,07/01/2010 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,08/27/2010 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,10/19/2010 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,10/25/2010 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,10/21/2010 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,01/07/2011 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,01/17/2011 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,04/18/2011 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,11/19/2010 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,01/11/2010 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,01/25/2010 
+Hawker Beechcraft  ,Wichita  ,67206  ,4  ,04/05/2010 
+Hawker Beechcraft  ,Wichita  ,67206  ,4  ,04/19/2010 
+Hawker Beechcraft  ,Wichita  ,67206  ,4  ,05/17/2010 
+Hawker Beechcraft  ,Wichita  ,67206  ,4  ,04/15/2010 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,09/25/2009 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,08/21/2009 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,08/31/2009 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,10/20/2009 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,10/22/2009 
+Hawker Beechcraft  ,Wichita  ,67206  ,4  ,06/13/2011 
+Hawker Beechcraft  ,Wichita  ,66720  ,4  ,03/29/2011 
+Hawker Beechcraft  ,Wichita  ,66720  ,4  ,04/29/2011 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,07/12/2011 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,06/28/2011 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,06/30/2011 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,09/19/2011 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,10/31/2011 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,10/31/2011 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,09/30/2011 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,07/22/2011 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,12/02/2011 
+Hawker Beechcraft  ,Wichita  ,67206  ,4  ,11/11/2011 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,03/23/2012 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,03/02/2012 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,03/02/2012 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,02/06/2012 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,01/23/2012 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,01/26/2012 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,01/27/2012 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,07/27/2012 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,08/03/2012 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,06/29/2012 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,07/20/2012 
+Hawker Beechcraft  ,Wichita  ,67201  ,3  ,05/22/2012 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,04/23/2012 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,05/04/2012 
+Hawker Beechcraft  ,Wichita  ,67201  ,4  ,05/11/2012 
+Hawker Beechcraft  ,Wichita  ,67206  ,4  ,06/26/2009 
+Hawker Beechcraft  ,Wichita  ,67206  ,4  ,06/22/2009 
+Hawker Beechcraft  ,Wichita  ,672010085  ,4  ,11/03/2008 
+Hawker Beechcraft  ,Wichita  ,672010085  ,4  ,02/06/2009 
+Hawker Beechcraft  ,Salina  ,67401  ,1  ,02/06/2009 
+Hawker Beechcraft Corp  ,Wichita  ,67201  ,4  ,08/21/2009 
+Hawker Beechcraft Corp  ,Wichita  ,672010085  ,4  ,07/31/2009 
+Hawker Beechcraft Corp  ,Wichita  ,672010085  ,4  ,05/19/2009 
+Hawker Beechcraft Corp  ,Wichita  ,67201  ,4  ,10/22/2010 
+Hawker Beechcraft Corporation  ,Wichita  ,67201  ,4  ,08/14/2009 
+Head Start  ,Kansas City  ,66117  ,3  ,04/30/2014 
+Health Midwest - Menorah Medical Center  ,Overland Park  ,66209  ,3  ,10/08/2001 
+Heartland Cement Company  ,Independence  ,67301  ,5  ,05/28/2008 
+"Heartland Wheat Growers, L.P.  ",Russell  ,67665  ,1  ,05/01/2001 
+Herff Jones  ,Iola  ,66749  ,5  ,07/08/2015 
+"Herff Jones, Inc.  ",Iola  ,66749  ,5  ,07/07/2015 
+"Hill's Pet Nutrition, Inc. and Subsidiaries  ",Topeka  ,66601  ,2  ,01/18/2002 
+HOBART CORPORATION  ,KANSAS CITY  ,66115  ,3  ,02/25/2002 
+Hoisington Rehabilitationl Center  ,Hoisington  ,67544  ,1  ,02/18/2003 
+Hollywood Casino  ,Kansas City  ,66111  ,3  ,06/12/2020 
+"Home Credit US, LLC  ",Overland Park  ,66211  ,3  ,12/02/2019 
+Honeywell Aerospace  ,Wichita  ,67209  ,4  ,08/02/2019 
+"Hooper Holmes, Inc.  ",Olathe  ,66062  ,3  ,11/01/2018 
+Hostess Brands  ,Emporia  ,66801  ,5  ,11/09/2012 
+Household Tax Masters Inc.  ,Overland Park  ,66212  ,3  ,11/08/1999 
+"Hy-Vee, Inc.  ",Lawrence  ,66049  ,2  ,09/11/2019 
+IFH Deluxe Tank Manufacturing Co.  ,Hutchinson  ,67501  ,1  ,03/09/2001 
+IMC Salt  ,Overland Park  ,66210  ,1  ,02/02/1999 
+"Impresa Aerospace, LLC  ",Wichita  ,67213  ,4  ,09/30/2016 
+InkCycle  ,Lenexa  ,66214  ,3  ,08/24/2006 
+Innovative Marketing Strategies  ,Pittsburg  ,66762  ,5  ,08/11/2003 
+"Innovative Marketing Strategies, Inc.  ",Independence  ,67301  ,5  ,3/6/2003
+Insight School  ,Olathe  ,66062  ,3  ,05/18/2011 
+Interactive Teleservices  ,Wichita  ,67209  ,4  ,06/02/1999 
+InterCall  ,Lenexa  ,66219  ,3  ,06/09/2009 
+International Paper  ,Kansas City  ,66115  ,3  ,04/03/2009 
+International Paper  ,Kansas City  ,66115  ,3  ,05/14/2002 
+Invalco Inc.  ,Hutchinson  ,,1  ,10/30/1998 
+IRE International  ,El Dorado  ,,4  ,10/30/1998 
+J M Bauersfeld's  ,Topeka  ,66614  ,2  ,03/28/2003 
+J.C. Penney Company  ,Lenexa  ,66250  ,3  ,01/10/2003 
+Jack Cooper Transport Co. Inc.  ,Kansas City  ,66115  ,3  ,12/10/2002 
+"Jacobson's Stores, Inc.  ",Leawood  ,66209  ,3  ,07/25/2002 
+JC Penney  ,Lenexa  ,66219  ,3  ,01/16/2020 
+Jim's Formal Wear  ,Salina  ,67401  ,1  ,03/31/2020 
+JLL  ,Kansas City  ,66115  ,3  ,09/18/2019 
+Jones Lang LaSalle  ,Kansas City  ,66115  ,3  ,03/31/2020 
+Jostens  ,Topeka  ,66061  ,2  ,05/12/2011 
+Jostens  ,Topeka  ,66609  ,2  ,05/14/2012 
+K-Mart  ,Independence  ,67301  ,5  ,03/01/2003 
+K-Mart  ,Mission  ,66202  ,2  ,11/01/2012 
+K-Mart  ,Mission  ,66202  ,3  ,11/01/2012 
+Kansas Children Service League  ,Hays  ,67601  ,1  ,04/25/2005 
+Kansas Children's Service League  ,Wichita  ,67201  ,4  ,02/22/2005 
+"Kansas Star Casino, Hotel and Event Center  ",Mulvane  ,67110  ,4  ,05/22/2020 
+"Kauffman Engineering, Inc.  ",Junction City  ,66441  ,2  ,04/27/2020 
+Kemper Auto and Home  ,Overland Park  ,66210  ,3  ,08/14/2003 
+Kemper Insurance Companies  ,Overland Park  ,66210  ,3  ,05/09/2003 
+"KEY Industries, Inc.  ","Fort Scott, KS  ",66701  ,1  ,05/01/2000 
+"kgb Deals, Inc  ",Wichita  ,67226  ,4  ,12/01/2011 
+"kgb USA, Inc.  ",Wichita  ,67226  ,4  ,10/27/2011 
+Kinedyne  ,Lawrence  ,66046  ,2  ,12/10/2010 
+"King Louie International, Inc  ",Grandview  ,64040  ,5  ,03/22/2006 
+KMart  ,Newton  ,67114  ,1  ,03/11/2002 
+KMART  ,Lawrence  ,66046  ,2  ,01/12/2003 
+KMART  ,Wichita  ,67207  ,4  ,01/12/2003 
+KMART  ,Independence  ,67301  ,5  ,01/12/2003 
+Kmart  ,Wichita  ,67216  ,4  ,01/04/2018 
+Kongsberg Automotive  ,Haysville  ,67060  ,4  ,12/09/2008 
+KU Medical Center  ,Kansas City  ,66160  ,3  ,07/09/2013 
+Labat Anderson Incorporated  ,Lenexa  ,66215  ,3  ,01/30/2009 
+"Lady Baltimore Foods, Inc.  ",Kansas City  ,66117  ,3  ,08/09/2002 
+LaFarge of North America  ,Fredonia  ,66736  ,5  ,12/20/2011 
+"Laidlaw Transit, Inc.  ",Topeka  ,66612  ,2  ,03/29/2004 
+Lear Siegler Services  ,Fort Riley  ,66442  ,2  ,05/25/2007 
+"Lear Siegler Services, Inc  ",Ft. Riley  ,66442  ,2  ,08/02/2002 
+"Lear Siegler Services, Inc.  ",Ft. Riley  ,66442  ,2  ,04/03/2003 
+Learjet  ,Wichita  ,67209  ,4  ,06/02/2003 
+Learjet  ,Wichita  ,67209  ,4  ,05/01/2003 
+Learjet  ,Wichita  ,67209  ,4  ,05/01/2003 
+Learjet  ,Wichita  ,67209  ,4  ,01/15/2015 
+"Learjet, Inc.  ",Wichita  ,67209  ,4  ,06/09/2003 
+"Learjet, Inc.  ",Wichita  ,67209  ,4  ,08/01/2003 
+Lee Brand  ,Merriam  ,66202  ,3  ,01/14/2019 
+"Leonard's Metal, Inc. dba LMI Aerospace  ",Fredonia  ,66736  ,5  ,04/10/2020 
+"Leonard's Metal, Inc., dba LMI Aerospace  ",Cottonwood Falls  ,66845  ,5  ,04/10/2020 
+Levitz Furniture  ,Lenexa  ,,3  ,01/12/1999 
+"Liberty Homes, Inc.  ",Yoder  ,67585  ,1  ,02/24/2011 
+"Lippert Componenets, Inc.  ",Newton  ,67114  ,1  ,10/09/2019 
+"LMI Aerospace, Inc.  ",Wichita  ,67213  ,4  ,12/11/2003 
+Lodge Works  ,Wichita  ,67226  ,4  ,07/14/2011 
+"Logistics Resources, Inc.  ",Wichita  ,67210  ,4  ,12/01/2014 
+LSI Corporation  ,Wichita  ,67226  ,4  ,11/09/2007 
+LSI MidWest Lighting Inc  ,Kansas City  ,66115  ,3  ,09/22/2016 
+Lucent Technologies  ,Shawnee Mission  ,66202  ,3  ,04/09/2003 
+Lucent Technologies  ,Shawnee Mission  ,66202  ,3  ,03/25/2003 
+Lucent Technologies  ,Shawnee Mission  ,66202  ,3  ,02/11/2003 
+Lucent Technologies  ,Shawnee Mission  ,66202  ,3  ,03/11/2003 
+Lucent Technologies  ,Shawnee Mission  ,66202  ,3  ,02/25/2003 
+Lucent Technologies  ,Shawnee Mission  ,66203  ,3  ,10/30/2002 
+Lucent Technologies  ,Shawnee Mission  ,66202  ,3  ,11/18/2002 
+M & M Motors  ,Girard  ,66743  ,5  ,10/17/2005 
+Machine Laboratory  ,Lenexa  ,66214  ,3  ,05/02/2016 
+Macy's  ,Topeka  ,66604  ,2  ,01/06/2012 
+Macys  ,Overland Park  ,66612  ,3  ,01/08/2014 
+ManTech International  ,Fort Riley  ,65442  ,2  ,11/30/2010 
+Marley Pump  ,"Davenport, Iowa  ",52808  ,3  ,06/08/1999 
+Marriott International Customer Engagement Center  ,Wichita  ,67218  ,4  ,06/11/2020 
+Marshall and Ilsley Company  ,Overland Park  ,66211  ,3  ,01/20/2006 
+Maupintour  ,Lawrence  ,66046  ,2  ,09/26/2001 
+Maximus  ,Topeka  ,66603  ,2  ,10/15/2009 
+MB Financial Bank  ,Overland Park  ,66213  ,3  ,04/25/2018 
+MCI  ,Wichita  ,67226  ,4  ,06/25/2004 
+"McLane Company, Inc.  ",Wichita  ,67201  ,4  ,02/03/2005 
+McNally Mfg.  ,Pittsburg  ,66762  ,5  ,12/04/2001 
+"Medicalodges, Inc.  ",Kansas City  ,66104  ,3  ,02/26/2014 
+"Mercy Health Kansas Communities, Inc., d/b/a Mercy  ",Fort Scott  ,66701  ,5  ,10/26/2018 
+Meridian Automotive Systems  ,Kansas City  ,66111  ,3  ,07/01/2008 
+"Mid-Kansas Investment, Inc  ",Hutchison  ,67502  ,1  ,03/23/2020 
+Midland Credit Manaagement  ,"Hutchinson, KS  ",67504  ,1  ,06/14/2000 
+"Midwest Automotive, Inc. dba Midwest Kia  ",Wichita  ,67209  ,4  ,03/24/2020 
+Midwest KIA  ,Wichita  ,67209  ,4  ,03/24/2020 
+Milepost Transportation  ,Oak Brook  ,60523  ,3  ,12/28/2004 
+Milestone AV Technologies / DA-LITE / Advanced Pro  ,Wichita  ,67214  ,4  ,03/25/2014 
+Modine Mfg  ,Emporia  ,66801  ,5  ,03/21/2002 
+Montgomery Wards  ,Topeka  ,66604  ,2  ,01/12/2001 
+Nation Pizza and Foods  ,McPherson  ,67460  ,1  ,03/18/2014 
+National Garment Company  ,Chanute  ,,5  ,10/19/1998 
+National Mills  ,Pittsburg  ,66762  ,5  ,11/12/2003 
+"NCO Customer Management, Inc.  ",Lenexa  ,66219  ,3  ,04/06/2010 
+"NCO Financial Systems, Inc  ",Lenexa  ,66285  ,3  ,01/29/2015 
+"NE Opco, Inc., dba National Envelope  ",Lenexa  ,66219  ,3  ,10/4/2010
+Nestle  ,Kansas City  ,66115  ,3  ,08/16/2019 
+NetApp  ,Wichita  ,67226  ,4  ,11/03/2016 
+NEW  ,Hays  ,67601  ,1  ,01/31/2012 
+New World Pasta  ,Harrisburg PA  ,17112  ,3  ,06/03/1999 
+NLX Corporation  ,Wichita  ,67221  ,4  ,07/31/2002 
+Nordam Group  ,Wichita  ,67226  ,4  ,04/14/2009 
+Nordam Group  ,Wichita  ,67226  ,4  ,04/20/2009 
+"NORDAM Group, Inc.  ",Wichita  ,67226  ,4  ,01/10/2014 
+Northrop Brumman  ,Topeka  ,66619  ,2  ,10/31/2012 
+Northwest Pipe Company  ,Atchison  ,66002  ,2  ,04/06/2015 
+Nu Wa Industries Inc.  ,Chanute  ,66720  ,5  ,08/21/2008 
+"Nu Wa Industries, Inc.  ",Chanute  ,66720  ,5  ,11/06/2008 
+NuComm International  ,Wichita  ,672091630  ,4  ,07/23/2007 
+NWI Kansas City LLC  ,Edgerton  ,66021  ,3  ,03/19/2019 
+"Optima Bus Corp., LLC  ",Valley Center  ,67147  ,4  ,06/06/2007 
+Orval Kent  ,Baxter Springs  ,66713  ,5  ,12/09/2011 
+"OS Restaurant Services, LLC  ",Tampa  ,33607  ,4  ,04/27/2020 
+Osborn Group Inc.  ,Olathe  ,66062  ,3  ,08/31/2001 
+Owens Corning  ,Kansas City  ,66115  ,3  ,11/03/2010 
+"Pacific Sunwear of California, LLC  ",Olathe  ,66062  ,3  ,10/23/2018 
+Padgett Thompson Seminar Division  ,Leawood  ,66211  ,3  ,06/25/2002 
+Paper Source  ,Leawood  ,66209  ,3  ,03/27/2020 
+Parkview Passages Residential Treatment Center  ,Topeka  ,66606  ,2  ,01/28/2000 
+Payless Shoesource  ,Topeka  ,66618  ,2  ,11/11/2008 
+Payless Shoesource  ,Topeka  ,66607  ,2  ,01/26/2018 
+Payless Shoesource  ,Topeka  ,66607  ,2  ,11/16/2017 
+"Payless ShoeSource, Inc.  ",Topeka  ,66607  ,2  ,02/19/2019 
+"PCCS, Inc.  ",Plainville  ,67663  ,1  ,01/20/2003 
+Pegasus  ,Lenexa  ,66219  ,3  ,09/15/2004 
+Pegasus Satellite Television  ,Lenexa  ,66219  ,3  ,08/02/2004 
+Penske  ,Kansas City  ,66106  ,3  ,06/20/2014 
+"Penske Logistics, Inc.  ",Kansas City  ,64114  ,3  ,06/25/2002 
+"Penske Logistics, Inc.  ",Manhattan  ,66502  ,2  ,06/25/2002 
+"Penske Logistics, Inc.  ",Wichita  ,67209  ,4  ,06/25/2002 
+People's Inc.  ,Overland Park  ,66213  ,3  ,09/18/2017 
+"Pfizer, Inc.  ",Overland Park  ,66210  ,3  ,12/14/2009 
+"Physician Resources, Inc.  ",Kansas City  ,66112  ,3  ,03/28/2003 
+"Pillsbury Bakeries, Food Service  ",Lenexa  ,66219  ,3  ,05/04/1999 
+"Pinnacle Heathcare System, Inc.  ",Overland Park  ,66213  ,3  ,04/10/2020 
+Pizza Hut  ,Overland Park  ,66212  ,3  ,05/01/2008 
+PolyOne  ,Wichita  ,67277  ,4  ,02/03/2016 
+Precision Dynamics Corporation  ,Belleville  ,66935  ,1  ,05/30/2003 
+"Premiere Global Services, Inc.  ",Olathe  ,66061  ,3  ,05/21/2018 
+"Premium Water, Inc.  ",Kansas City  ,66106  ,3  ,09/05/2012 
+Principal Financial Group  ,Overland Park  ,66210  ,3  ,10/22/2010 
+"Principal Residential Mortgage, Inc.  ",Overland Park  ,66210  ,3  ,06/30/2004 
+PrintXcel of Cenveo Corp  ,Girard  ,66743  ,5  ,03/21/2007 
+Progress Rail Services  ,Lawrence  ,66046  ,2  ,10/14/2008 
+Proliance  ,Emporia  ,66801  ,5  ,07/25/2005 
+Provell  ,Junction City  ,66441  ,2  ,10/29/2002 
+Providence Health  ,Kansas City  ,66112  ,3  ,12/13/2002 
+QTG  ,Manhattan  ,665025023  ,2  ,12/01/2008 
+QuadGraphics  ,Lenexa  ,66215  ,3  ,01/28/2016 
+RA Sushi  ,Leawood  ,66211  ,3  ,04/02/2020 
+Ramada Inn  ,Hutchinson  ,,1  ,02/12/1999 
+Ray E. Dillon Living Center  ,Hutchinson  ,67502  ,1  ,07/07/2016 
+Ray E. Dillon Living Center  ,Hutchinson  ,67502  ,1  ,07/07/2016 
+Raytheon  ,Wichita  ,67201  ,4  ,02/01/2002 
+Raytheon  ,Salina  ,67401  ,1  ,09/20/2004 
+Raytheon  ,Wichita  ,67201  ,4  ,02/17/2005 
+Raytheon  ,Wichita  ,67201  ,4  ,12/05/2003 
+Raytheon  ,Wichita  ,67201  ,4  ,07/18/2005 
+Raytheon  ,Wichita  ,67201  ,4  ,07/01/2005 
+Raytheon Aircraft Company  ,Wichita  ,67201  ,4  ,08/29/2005 
+Raytheon Aircraft Company  ,Wichita  ,67201  ,4  ,09/26/2005 
+Raytheon Aircraft Company  ,Wichita  ,67201  ,4  ,10/10/2005 
+Raytheon Aircraft Company  ,Wichita  ,67201  ,4  ,05/23/2005 
+Raytheon Aircraft Company  ,Wichita  ,67201  ,4  ,06/20/2005 
+Raytheon Aircraft Company  ,Salina  ,67201  ,4  ,05/09/2005 
+Raytheon Aircraft Company  ,Wichita  ,67201  ,4  ,04/11/2005 
+"Ready Set Service, LLC  ",Elk Grove  ,60007  ,2  ,08/18/2009 
+Regal Cinemas  ,Wichita  ,67206  ,4  ,04/29/2020 
+Regal Cinemas  ,Wichita  ,67205  ,4  ,04/29/2020 
+"Results Customer Solutions, LLC  ",Salina  ,67401  ,1  ,09/22/2011 
+"RG Steel, LLC  ",Lenexa  ,66215  ,3  ,04/23/2012 
+"Rhodes Grocery, Inc.  ",Parsons  ,67357  ,5  ,12/27/2004 
+"Rhodes Grocery, Inc.  ",Chanute  ,66720  ,5  ,01/08/2005 
+"Risk Management Alternatives, Inc.  ",Ottawa  ,66067  ,2  ,07/01/2004 
+"Ritz Camera Centers, Inc.  ",Topeka  ,66618  ,2  ,07/24/2009 
+Royal Oakes  ,Chetopa  ,67336  ,5  ,05/20/2015 
+RS Staffing Services  ,Leavenworth  ,66048  ,3  ,09/10/2003 
+RSI Home Products  ,Columbus  ,66725  ,5  ,07/22/2011 
+Rubbermaid Home Products  ,Winfield  ,67156  ,4  ,08/03/2005 
+Rusty Eck Ford  ,Wichita  ,67207  ,4  ,03/24/2020 
+"Rusty Eck Ford, Inc.  ",Wichita  ,67207  ,4  ,03/24/2020 
+Ryan International Airlines  ,Wichita  ,672021504  ,4  ,05/12/2006 
+Ryan International Airlines  ,Wichita  ,672021504  ,4  ,05/12/2006 
+Safelite Glass Corp.  ,Wichita  ,67214  ,4  ,04/27/2005 
+SAI Automotive  ,Kansas City  ,66111  ,3  ,04/27/1999 
+SAIC - From Science to Solutions  ,Lenexa  ,66219  ,3  ,11/13/2007 
+Saint Luke's Cushiing Hospital  ,Leavenworth  ,66048  ,3  ,09/25/2019 
+Sallie Mae  ,Lawrence  ,,2  ,01/28/1999 
+Sara Lee Bakery Group  ,Hutchinson  ,67501  ,1  ,10/29/2004 
+"Schenker, Inc.  ",Wichita  ,67210  ,4  ,01/21/2020 
+Schuff Steel Midwest  ,Ottawa  ,66067  ,2  ,03/24/2010 
+Schult Homes  ,Plainville  ,67663  ,1  ,01/30/2004 
+"Schult Homes and CMH Manufacturing IN.,  ",Plainville  ,67663  ,1  ,01/21/2008 
+"Seaborn Health Care, Inc.  ",Leavenworth  ,66048  ,3  ,09/02/2005 
+Sears Holding  ,Overland Park  ,66212  ,3  ,06/22/2017 
+Sears Holdings  ,Lenexa  ,66219  ,3  ,02/26/2009 
+"Sears, Roebuck and Company  ",Tucker  ,300845006  ,3  ,06/15/2006 
+Select Medical Corporation  ,Topeka  ,66606  ,2  ,03/04/2015 
+"ServiceLink NLS, LLS  ",Overland Park  ,66221  ,3  ,06/24/2015 
+"ServiceLink NLS, LLS  ",Overland Park  ,66211  ,3  ,06/24/2015 
+Sheraton Overland Park Hotel  ,Overland Park  ,66211  ,3  ,06/01/2020 
+Shoney's Distribution Center  ,Wichita  ,,4  ,10/21/1998 
+Siemens  ,Hutchinson  ,67501  ,1  ,09/01/2017 
+Siemens  ,Hutchinson  ,67501  ,1  ,09/18/2012 
+SKF USA Inc.  ,Seneca  ,66538  ,2  ,10/24/2017 
+Skyline Corporation  ,Halstead  ,67056  ,1  ,09/15/2009 
+"SM&P Utility Resources, Inc.  ",Andover  ,67002  ,4  ,12/11/2002 
+Snorkel  ,Elwood  ,66024  ,2  ,11/04/2008 
+Snorkel  ,Elwood  ,66024  ,2  ,07/22/2009 
+Snorkel International Inc.  ,Elwood  ,66024  ,2  ,04/10/2009 
+Snorkel/OmniQuip Textron Inc.  ,"Elwood,  ",,2  ,06/17/2001 
+Sodexho Health Care Services  ,Eagan  ,55121  ,3  ,10/27/2003 
+"Sodexo, Inc.  ",Wichita  ,67260  ,4  ,05/01/2017 
+"Sodexo, Inc.  ",Manhattan  ,66506  ,2  ,10/31/2015 
+Southern Bag Corportation  ,Little Rock AR  ,72211  ,5  ,10/06/1999 
+Southern Education Council  ,Pratt  ,67124  ,1  ,01/11/2000 
+Southwestern Bell  ,Topeka  ,66603  ,2  ,01/16/2003 
+Southwestern Bell  ,Wichita  ,67201  ,4  ,08/27/2002 
+"Southwire, LLC  ",Coffeyville  ,67337  ,5  ,03/24/2014 
+Spiegel Group Telemarketing Service Inc.  ,Wichita  ,67207  ,4  ,03/12/2002 
+Spirit Aerosystems  ,Wichita  ,67210  ,4  ,09/12/2013 
+"Spirit AeroSystems, Inc  ",Wichita  ,67210  ,4  ,05/01/2020 
+"Spirit AeroSystems, Inc.  ",Wichita  ,67210  ,4  ,01/10/2020 
+Sportsman's Warehouse  ,Wichita  ,67207  ,4  ,03/11/2009 
+Sprint  ,Olathe  ,66215  ,3  ,07/30/2009 
+Sprint  ,Overland Park  ,66251  ,3  ,03/20/2009 
+Sprint  ,Lenexa  ,66219  ,3  ,01/25/2008 
+Sprint  ,Overland Park  ,66215  ,3  ,04/04/2008 
+Sprint  ,Overland Park  ,66251  ,3  ,01/15/2003 
+Sprint  ,Overland Park  ,66219  ,3  ,03/06/2003 
+Sprint  ,Overland Park  ,66251  ,3  ,05/25/2018 
+Sprint  ,Overland Park  ,66251  ,3  ,03/09/2018 
+Sprint  ,Overland Park  ,66251  ,3  ,03/20/2018 
+Sprint  ,Overland Park  ,66251  ,3  ,09/23/2013 
+Sprint  ,Overland Park  ,66251  ,3  ,03/18/2014 
+Sprint  ,Overland Park  ,66251  ,3  ,10/17/2014 
+Sprint  ,Overland Park  ,66251  ,3  ,11/14/2014 
+Sprint  ,Overland Park  ,66251  ,3  ,04/26/2016 
+Sprint  ,Overland Park  ,66251  ,3  ,01/22/2016 
+Sprint  ,Overland Park  ,66251  ,3  ,01/16/2015 
+Sprint  ,Overland Park  ,66251  ,3  ,04/10/2015 
+Sprint  ,Overland Park  ,66251  ,3  ,08/28/2015 
+Sprint Corporation  ,Overland Park  ,66251  ,3  ,10/17/2001 
+Sprint Nextel  ,Overland Park  ,66251  ,3  ,02/03/2009 
+St. Joseph Memorial Hospital  ,Larned  ,67550  ,1  ,06/15/2009 
+St. Rose Ambulatory & Surgery Center  ,Great Bend  ,67530  ,1  ,08/27/2014 
+St. Rose Ambulatory and Surgery Center  ,Garden City  ,67846  ,1  ,08/26/2014 
+Stanley-Goldblatt Tools  ,Kansas City  ,,3  ,11/18/1998 
+Staples  ,Lenexa  ,66215  ,3  ,04/29/2009 
+Sumner Community Hospital  ,Wellington  ,66048  ,4  ,03/12/2020 
+Sun Microsystems  ,Santa Clara  ,95054  ,3  ,03/30/2009 
+Suntron  ,Ottawa  ,66067  ,2  ,08/07/2002 
+Suntron - Midwest Operation  ,Olathe  ,66062  ,3  ,09/08/2006 
+"Superior Industries International, Inc.  ",Pittsburg  ,66762  ,5  ,08/19/2008 
+Sykes  ,Hays  ,67601  ,1  ,01/20/2004 
+Sykes  ,Hays  ,67601  ,1  ,04/13/2004 
+"Sykes Enterprises, Inc.  ",Manhattan  ,66503  ,2  ,04/06/2004 
+T-Mobile  ,Lenexa  ,66219  ,3  ,03/22/2012 
+T-Mobile  ,Overland Park  ,66251  ,3  ,06/17/2020 
+Taylor Communications  ,Wichita  ,67215  ,4  ,02/27/2019 
+TeleTech  ,Topeka  ,66603  ,2  ,01/27/2004 
+Teletech  ,Kansas City  ,66101  ,3  ,05/09/2003 
+TeleTech  ,Kansas City  ,66102  ,3  ,04/09/2003 
+Teletech  ,Kansas City  ,66102  ,3  ,04/15/2003 
+Terex Cranes  ,Olathe  ,66061  ,3  ,04/16/2003 
+"Teva Pharmaceuticals USA, Inc.  ",Overland Park  ,66211  ,3  ,01/25/2018 
+Textron Aviation  ,Wichita  ,67215  ,4  ,04/23/2014 
+The Alzheimer's Center of Kansas City  ,Kansas City  ,66104  ,3  ,12/27/2004 
+The Boeing Company  ,Wichita  ,67277  ,4  ,03/11/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,3/18/2005
+The Boeing Company  ,Wichita  ,67277  ,4  ,03/25/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,04/29/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,05/06/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,04/01/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,04/08/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,04/15/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,04/22/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,06/24/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,06/07/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,06/17/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,05/20/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,05/13/2005 
+The Boeing Company  ,WICHITA  ,67277  ,4  ,06/24/2002 
+The Boeing Company  ,Wichita  ,67277  ,4  ,11/25/2002 
+The Boeing Company  ,Wichita  ,67277  ,4  ,09/23/2002 
+The Boeing Company  ,Wichita  ,67277  ,4  ,08/26/2002 
+The Boeing Company  ,Wichita  ,67277  ,4  ,08/09/2002 
+The Boeing Company  ,Wichita  ,67218  ,4  ,08/21/2006 
+The Boeing Company  ,Wichita  ,67277  ,5  ,01/23/2006 
+The Boeing Company  ,Wichita  ,672777730  ,4  ,12/16/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,09/16/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,08/19/2005 
+The Boeing Company  ,Wichita  ,67277  ,4  ,11/11/2005 
+The Boeing Company  ,Wichita  ,672777730  ,4  ,01/24/2007 
+The Boeing Company  ,Wichita  ,672777730  ,4  ,11/21/2006 
+The Boeing Company  ,Wichita  ,67277  ,4  ,04/18/2006 
+The Carriage House  ,Kansas City  ,66106  ,3  ,05/20/2004 
+The Coleman Company  ,Wichita  ,67101  ,4  ,12/02/2003 
+the Marriott Kansas City  ,Overland Park  ,66210  ,3  ,03/27/2020 
+The Menninger Clinic  ,Topeka  ,66601  ,2  ,02/18/2003 
+The Menninger Clinic  ,Topeka  ,66601  ,2  ,12/28/2000 
+The North Face  ,Lenexa  ,66219  ,3  ,04/10/2006 
+The Signature Group  ,"Schaumburg, IL  ",60173  ,3  ,07/26/1999 
+The Wichita Eagle  ,Wichita  ,67202  ,4  ,03/15/2016 
+The Woodlands  ,Kansas City  ,66109  ,3  ,07/22/2008 
+Thomas and Betts  ,Osawatomie  ,,4  ,10/06/1998 
+Thte Boeing Company  ,Wichita  ,67277  ,4  ,05/27/2005 
+"Tier Technologies, Inc.  ",Topeka  ,66611  ,2  ,03/12/2007 
+Topeka Capital Plaza  ,Topeka  ,66612  ,2  ,04/29/2020 
+Toys R Us  ,Wichita  ,67207  ,4  ,03/15/2018 
+Transamerica Finance  ,Lenexa  ,66219  ,3  ,01/31/2001 
+Transervice Lease Corp.  ,Kansas City  ,66106  ,3  ,02/27/2003 
+Transform LM LLC  ,Lawrence  ,66044  ,2  ,01/30/2020 
+TriStar  ,Augusta  ,,4  ,10/15/1998 
+TriWest Healthcare Alliance Corp.  ,Phoenix  ,85053  ,2  ,12/10/2012 
+Tweco  ,Wichita  ,67277  ,4  ,11/06/2003 
+Tweco  ,Wichita  ,67277  ,4  ,11/06/2003 
+Tweco  ,Wichita  ,67277  ,4  ,11/06/2003 
+Tweco  ,Wichita  ,67277  ,4  ,10/19/2003 
+Tweco  ,Wichita  ,67277  ,4  ,09/15/2003 
+Tweco  ,Wichita  ,67277  ,4  ,09/18/2003 
+Tweco  ,Wichita  ,67277  ,4  ,09/25/2003 
+Tweco  ,Wichita  ,67277  ,4  ,10/13/2003 
+Tweco  ,Wichita  ,67277  ,4  ,01/06/2004 
+Tweco  ,Wichita  ,67277  ,4  ,01/13/2004 
+Tweco  ,Wichita  ,67277  ,4  ,01/19/2004 
+Tweco Arcair  ,Wichita  ,67277  ,4  ,12/22/2003 
+Tyco Capital Corporation  ,Overland Park  ,66212  ,3  ,02/01/2002 
+"Tyson Fresh Meats, Inc.  ",Emporia  ,66801  ,5  ,02/06/2008 
+"Tyson Fresh Meats, Inc.  ",Emporia  ,66801  ,5  ,01/25/2008 
+Unilever Food Solutions  ,Wichita  ,67217  ,4  ,01/22/2009 
+Unilever Food Solutions  ,Wichita  ,67217  ,4  ,03/04/2009 
+Union Tank Car Co.  ,El Dorado  ,67042  ,4  ,12/03/2004 
+United Airlines  ,Wichita  ,67209  ,4  ,08/01/2014 
+Valassis  ,Wichita  ,67226  ,4  ,12/08/2015 
+"Valent Aerostructures LLC, dba LMI Aerospace  ",Wichita  ,67216  ,4  ,04/10/2020 
+Vanguard Airlines  ,Kansas City  ,64153  ,3  ,07/29/2002 
+VECTRON INTERNATIONAL  ,OLATHE  ,66062  ,3  ,02/25/2002 
+Verizon  ,Manhattan  ,66503  ,2  ,09/29/2009 
+Verizon Wireless  ,Overland Park  ,66212  ,3  ,02/05/2003 
+VF Corporation  ,Greensboro  ,27401  ,3  ,04/10/2006 
+Via Christi  ,Wichita  ,67203  ,4  ,07/21/2004 
+Via Christi Health  ,Wichita  ,67226  ,4  ,02/10/2017 
+Via Christi Hospital  ,Pittsburg  ,66762  ,5  ,06/01/2013 
+Viking Office Products  ,Wichita  ,67226  ,4  ,01/21/2005 
+Visionworks  ,San Antonio  ,78205  ,3  ,04/23/2020 
+Visionworks  ,San Antonio  ,78205  ,3  ,04/23/2020 
+Waddell & Reed  ,Lenexa  ,66202  ,3  ,07/30/2019 
+Walgreens  ,Galena  ,66739  ,5  ,09/10/2012 
+Walmart  ,Liberal  ,67901  ,1  ,03/20/2019 
+Walmart  ,Derby  ,67037  ,4  ,07/09/2018 
+Walmart  ,Wichita  ,67208  ,4  ,01/15/2016 
+Walmart  ,Wichita  ,67207  ,4  ,01/15/2016 
+Walmart  ,Wichita  ,67203  ,4  ,01/15/2016 
+Wards  ,Junction City  ,,2  ,01/22/1999 
+"Watts Water Technologies, Inc.  ",Kansas City  ,66615  ,3  ,09/14/2012 
+"Windstream Communications, Inc.  ",Salina  ,67401  ,1  ,09/05/2007 
+WinterSleiger Inc.  ,Colwich  ,67030  ,4  ,04/15/2009 
+"Wittur, Inc.  ",Arkansas City  ,67005  ,4  ,05/18/2004 
+Wolferman's  ,Lenexa  ,,3  ,01/18/1999 
+Worthington Industries  ,Garden City  ,67846  ,1  ,03/27/2015 
+Worthington Industries  ,Garden City  ,67846  ,1  ,04/07/2015 
+"XPO Logistics Worldwide, Inc.  ",Edgerton  ,66021  ,3  ,01/24/2019 
+Yellow Book USA  ,San Dieogo  ,92111  ,1  ,03/01/2007 
+YMCA  ,Wichita  ,67212  ,4  ,03/20/2020 
+YRC Worldwide's Norht American Transportation  ,Topeka  ,66611  ,2  ,09/29/2008 
+Zumiez  ,Edwardsville  ,66111  ,3  ,12/28/2015
