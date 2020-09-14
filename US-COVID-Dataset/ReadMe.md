@@ -41,13 +41,25 @@ max(Death Score - Infected Score, 0)
 
 18. Days between first infected and lockdown date (feature name: First-Inf-Lockdown)
 
-
+#--------------------------------------------------------------------
 
 New York City dataset (NYC_dist_mob.xlsx) captures the mobility and COVID-19 data for the 5 boroughs of NYC.
 
 1. Mobility data (based on traffic volume counts collected by DOT for New York Metropolitan Transportation Council (NYMTC[13]) shows the number of trips from one borough to another
 
 2. COVID-19 data shows the number of COVID-19 infected and death counts for each borough [14].
+
+#--------------------------------------------------------------------
+
+The New York Times reported a state-wise list of businesses that are shut down as per state laws) to prevent social contact and curb infection spread [15]. 
+
+
+The US Bureau of Labor Statistics put out a summary of the number of individuals in different ethnic groups hired by each job sector in 2019 [16].
+
+
+The US Census Bureau report presents an yearly breakdown of the population on the basis of age, sex, race, family arrangement, income and poverty, etc. [17].
+
+#--------------------------------------------------------------------
 
 References
 
@@ -79,3 +91,8 @@ References
 
 [14] https://data.beta.nyc/pages/nyc-covid19
 
+[15] https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html
+
+[16] https://www.bls.gov/cps/cpsaat11.htm
+
+[17] https://www.census.gov/quickfacts/fact/table/US/PST045219
