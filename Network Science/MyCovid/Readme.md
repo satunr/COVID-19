@@ -13,7 +13,7 @@ The user can use this app to find the location where they can go safely dependin
 * Get Advice - User can click on the "GET ADVICE" button to get the value of the optimized Latitude and Longitude values.
 <img src="1.jpeg" width="120" height="260"></img>
 * Log Out - Finally the user can log out by clicking the "LOG OUT" button.
-<img src="3.jpeg" width="120" height="260"></img>
+<img src="0.png" width="120" height="260"></img>
 
 ## Backend
 * Firebase Realtime Database has been used to store the user data
