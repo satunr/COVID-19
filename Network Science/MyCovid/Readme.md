@@ -18,6 +18,6 @@ The user can use this app to find the location where they can go safely dependin
 ## Backend
 * Firebase Realtime Database has been used to store the user data
 <img src="firebase.png" width="120" height="260"></img>
-<img src="UserAuthentication.png" width="120" height="260"></img>
+<img src="User Authentication.png" width="120" height="260"></img>
 * The python scripts doing the optimization has been hosted in Heroku. The optimization scripts is being run every 10 minutes by Heroku Scheduler
 <img src="Heroku server.png" width="120" height="260"></img>
