@@ -21,7 +21,7 @@ The user can use this app to find the location where they can go safely dependin
 
 * Get Advice - User can click on the "GET ADVICE" button to get the value of the optimized Latitude and Longitude values.
 
-<img src="0.5.jpeg" width="120" height="260"></img>
+<img src="0.75.jpeg" width="120" height="260"></img>
 
 * Log Out - Finally the user can log out by clicking the "LOG OUT" button.
 
