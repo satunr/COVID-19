@@ -1,6 +1,7 @@
 # MyCovidApp
 
 The user can use this app to find the location where they can go safely depending on their current health status.
+
 MAIN APP FILES: MyCovidApp.zip
 
 ## A Walkthrough of the app
