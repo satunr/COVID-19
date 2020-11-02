@@ -15,7 +15,7 @@ MAIN APP FILES: MyCovidApp.zip
 
 <img src="0.75.jpeg" width="120" height="260"></img>
 
-* Change Status - User can change their status if the want to "TESTED POSITIVE" if they have been tested positive for COVID-19, or to "SUSCEPTIBLE" if they haven't been infected yet and "RECOVERED" if they have recovered from COVID-19.
+* Change Status - User can change their status if they want to "TESTED POSITIVE" if they have been tested positive for COVID-19, or to "SUSCEPTIBLE" if they haven't been infected yet and "RECOVERED" if they have recovered from COVID-19.
 
 <img src="0.5.jpeg" width="120" height="260"></img>
 
