@@ -8,4 +8,4 @@ workers. The code, and more information about the methodology used to generate t
 by these data can be found here. The data are available at the tract, county, or core-based statistical area level. LODES data by Census tract by income level 
 used in this analysis can be found on the data catalog here."
 
-The curated dataset has an excel file with two sheets corresponding to overall job loss and low income job loss.
+The curated dataset is an excel file (JobLoss.xlsx) with two sheets corresponding to overall job loss and low income job loss.
