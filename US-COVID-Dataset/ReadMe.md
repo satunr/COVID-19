@@ -41,6 +41,8 @@ max(Death Score - Infected Score, 0)
 
 18. Days between first infected and lockdown date (feature name: First-Inf-Lockdown)
 
+19. Percentage change in GDP between 2019-2020 (filename:  source/GDP.xlsx, feature name:  GDP).
+
 #--------------------------------------------------------------------
 
 New York City dataset (NYC_dist_mob.xlsx) captures the mobility and COVID-19 data for the 5 boroughs of NYC.
@@ -96,3 +98,6 @@ References
 [16] https://www.bls.gov/cps/cpsaat11.htm
 
 [17] https://www.census.gov/quickfacts/fact/table/US/PST045219
+
+[18] https://www.bea.gov/news/2021/gross-domestic-product-state-4th-quarter-2020-and-annual-2020-preliminary
+
