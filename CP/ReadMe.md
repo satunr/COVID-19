@@ -9,7 +9,7 @@
 
 **Code.** 
 
- - effect of individual's velocity on infection spread and contagion potential of a population (**Velocity_model.py**)
- - effect of superspread events, virus strains and reinfection on infection spread and contagion potential of a population (**Grid_model.py**)
+ - effect of individual's velocity on infection spread and contagion potential of a population of spatially distributed individuals (**Velocity_model.py**)
+ - effect of superspread events, virus strains and reinfection on infection spread and contagion potential of a population of spatially distributed individuals (**Grid_model.py**)
  - using the merge and update rule to study the effect of inter-zone mobility (in New York City) on contagion (**Merge_Update (NYC).py**)
  - leveraging bulk epidemiological data from Italy and Germany to show that contagion potential captures changing contagion dynamics (**Bulk_model (Italy).py**)
