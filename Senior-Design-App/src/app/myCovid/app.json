@@ -1,0 +1,59 @@
+{
+  "expo": {
+    "name": "myCovid",
+    "slug": "myCovid",
+    "owner": "vcu",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/a6e4e2cd-3121-4821-9e6f-d3b4473e1b7d"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "location",
+          "fetch"
+        ],
+        "NSLocationWhenInUseUsageDescription": "App requires location even when the App is backgrounded.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "App requires location even when the App is backgrounded.",
+        "NSLocationAlwaysUsageDescription": "App requires location even when the App is backgrounded."
+      },
+      "bundleIdentifier": "com.adamfinesse.mycovid"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.adamfinesse.mycovid",
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a6e4e2cd-3121-4821-9e6f-d3b4473e1b7d"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    }
+  }
+}
