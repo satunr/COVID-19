@@ -1,3 +1,8 @@
+Advancing Infection Profiling under Data Uncertainty through Contagion Potential
+================================================================================
+
+Below are the descriptions of the scripts.
+
 ### dir_parallel2d.py ###
 Confidence interval estimation considering complete CP information of the population varying mobility models, sample sizes, and strain infectivity
 ### inflate_upd.py ###
