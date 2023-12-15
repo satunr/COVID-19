@@ -17,4 +17,5 @@ Confidence interval estimation considering incomplete CP information of the popu
 Confidence interval estimation considering incomplete CP information of the population for localized mobility with inverse probability weighting for Grid CP calculation
 ### entropy.py ###
 To calculate the entropy in localized and HCMM mobility simulations
-
+### cov_data_italy_upd.csv, cov_data_germany_upd.csv
+Time-series population-level epidemiological data of Italy (Jan 2022 - 13 Nov 2022) and Germany (1 Jan 2022 - 30 June 2022)
