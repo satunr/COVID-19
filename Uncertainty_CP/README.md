@@ -1,7 +1,7 @@
 Advancing Infection Profiling under Data Uncertainty through Contagion Potential
 ================================================================================
 
-Below are the descriptions of the scripts.
+**Below are the descriptions of the scripts.
 
 ### CP_OPT_BULK.py ###
 <p align="justify"> This script implements a stochastic SIRS (Susceptible-Infected-Recovered-Susceptible) model to simulate the spread of an infectious disease over a population of one million individuals. The model calculates daily updates of the number of susceptible, infected, and recovered individuals based on given parameters (such as infection and recovery rates) and stores these updates in lists. The code also involves sampling to estimate new infections and recoveries over a specified duration and uses optimization techniques to adjust parameters for best fit to the model. Confidence intervals are computed for these estimates, and the results are compared to a bulk dataset to evaluate the model's accuracy. Finally, it stores and loads the simulation and optimization results using pickle.</p>
