@@ -28,7 +28,7 @@ Advancing Infection Profiling under Data Uncertainty through Contagion Potential
 
 ### DEPENDENCIES ###
 
-**pip install <package>**
+**pip install _package_**
 
 package = {scipy, numpy, matplotlib, pickle-mixin, scipy, scikit-learn, pathos}
 
