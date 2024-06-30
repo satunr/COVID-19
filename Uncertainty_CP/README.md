@@ -21,18 +21,7 @@ Below are the descriptions of the scripts.
 ### PARALLEL_SPATIAL_CP.py ###
 <p align="justify"> This code simulates a Susceptible-Exposed-Infectious-Recovered-Dead (SEIRD) model using different modes for generating locations and calculating interactions among individuals. It includes functions for setting up initial conditions, calculating spatial interactions based on proximity, updating individual statuses over time according to epidemiological parameters like transmission rates and recovery probabilities, and sampling infected cases to estimate confidence intervals. It employs multiprocessing for efficiency in computing pairwise interactions and utilizes various input data sources such as home percentages, friendship matrices, and geographical grid definitions. The model tracks daily status counts and mean Contagion Potentials (CPs) across multiple iterations, saving results to files for further analysis. </p>
 
-Confidence interval estimation considering complete CP information of the population varying mobility models, sample sizes, and strain infectivity
-### inflate_upd.py ###
-Confidence interval estimation considering incomplete CP information of the population and accounting for the adjustment in CP calculation
-### CI_opt_germany.py and CI_opt_italy.py ###
-Confidence interval estimation on Bulk Germany and Italy dataset
-### Outbreak.py ###
-Examining CI estimation in the event of an outbreak
-### SIM_HCMM.py ###
-Confidence interval estimation considering incomplete CP information of the population for an HCMM mobility model and using simple mean calculation for Grid CP
-### SIM_IPW_SimpMean_Loc.py ###
-Confidence interval estimation considering incomplete CP information of the population for localized mobility with inverse probability weighting for Grid CP calculation
-### entropy.py ###
-To calculate the entropy in localized and HCMM mobility simulations
-### cov_data_italy_upd.csv, cov_data_germany_upd.csv
+### CP_BIAS_IPW.py ###
+<p align="justify"> In this script, inverse probability weighting (IPW) is strategically employed to counteract biases inherent in sample collection methods. By adjusting the contribution of each individual's contagion potential (CP) based on their likelihood of being sampled, IPW enhances the accuracy of CP predictions. This approach is crucial in epidemiological simulations where realistic estimations of infectious disease spread are paramount. </p>
+
 Time-series population-level epidemiological data of Italy (1 Jan 2022 - 13 Nov 2022) and Germany (1 Jan 2022 - 30 June 2022)
