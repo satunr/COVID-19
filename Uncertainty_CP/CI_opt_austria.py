@@ -15,25 +15,6 @@ from numpy.linalg import norm, inv
 # from sklearn.metrics.pairwise import cosine_similarity
 from scipy import linalg
 
-'''
-germany - 6/22
-italy - 11/22
-
-poland - 6/22
-albania - 6/22
-malta - 6/22
-lithuania - 6/22
-Austria - 6/22
-
-czech - 12/21
-hungary - 3/22
-moldova - 4/22
-denmark - 11/21
-slovakia - 2/21
-switzerland - 3/22
-bosnia - 8/21
-'''
-
 # ------------------------ for Italy *** start ------------------------
 def Mu_R_opt(params, *args):
     
