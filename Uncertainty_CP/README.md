@@ -26,6 +26,9 @@ Advancing Infection Profiling under Data Uncertainty through Contagion Potential
 ### CP_BIAS_IPW.py ###
 <p align="justify"> In this script, inverse probability weighting (IPW) is strategically employed to counteract biases inherent in sample collection methods. By adjusting the contribution of each individual's contagion potential (CP) based on their likelihood of being sampled, IPW enhances the accuracy of CP predictions. This approach is crucial in epidemiological simulations where realistic estimations of infectious disease spread are paramount. </p>
 
+### DATASETS ###
+We consider population-level epidemiological data of the daily COVID cases in Germany, Italy, and Austria between January 1, 2022, and June 20, 2022, obtained from Our World in Data [1]. This dataset includes cumulative positive cases, cumulative deceased cases, cumulative recovered cases, current positive cases, hospitalization figures, intensive care data, etc., categorized by date and region within each country. 
+
 ### DEPENDENCIES ###
 
 **pip install _package_**
@@ -35,4 +38,6 @@ package = {scipy, numpy, matplotlib, pickle-mixin, scipy, scikit-learn, pathos}
 
 Time-series population-level epidemiological data of Italy (1 Jan 2022 - 13 Nov 2022) and Germany (1 Jan 2022 - 30 June 2022)
 
+**References**
+[1] Our world in data. https://ourworldindata.org/covid-cases, 2022.
 
