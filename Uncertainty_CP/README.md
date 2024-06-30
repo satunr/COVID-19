@@ -1,7 +1,7 @@
 Advancing Infection Profiling under Data Uncertainty through Contagion Potential
 ================================================================================
 
-** Overview of the Framework ** 
+**Overview of the Framework** 
 
 **Below are the descriptions of the scripts.** 
 
@@ -27,6 +27,9 @@ Advancing Infection Profiling under Data Uncertainty through Contagion Potential
 <p align="justify"> In this script, inverse probability weighting (IPW) is strategically employed to counteract biases inherent in sample collection methods. By adjusting the contribution of each individual's contagion potential (CP) based on their likelihood of being sampled, IPW enhances the accuracy of CP predictions. This approach is crucial in epidemiological simulations where realistic estimations of infectious disease spread are paramount. </p>
 
 ### DEPENDENCIES ###
+
+pip install <package>
+package = {scipy, numpy, matplotlib, pickle-mixin, scipy, scikit-learn, pathos}
 
 
 Time-series population-level epidemiological data of Italy (1 Jan 2022 - 13 Nov 2022) and Germany (1 Jan 2022 - 30 June 2022)
