@@ -38,6 +38,9 @@ package = {scipy, numpy, matplotlib, pickle-mixin, scipy, scikit-learn, pathos}
 
 Time-series population-level epidemiological data of Italy (1 Jan 2022 - 13 Nov 2022) and Germany (1 Jan 2022 - 30 June 2022)
 
+
+
 **References**
+
 [1] Our world in data. https://ourworldindata.org/covid-cases, 2022.
 
