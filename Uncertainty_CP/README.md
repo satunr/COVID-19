@@ -14,6 +14,9 @@ Below are the descriptions of the scripts.
 
 <p align="justify"> This script simulates the spread of an infectious disease in a population using a SEIRD (Susceptible, Exposed, Infected, Recovered, Deceased) model within a defined area. It initializes the population with specific statuses and locations, then iterates through a daily simulation of infection dynamics. The simulation updates the location and status of each individual based on their interactions and probabilities of infection, recovery, and death. It calculates contagion potentials (CPs) and uses statistical methods to estimate confidence intervals for these CPs. The code supports different modes of infection spread, such as random mixing or superspreader events, and uses multiprocessing to optimize performance. Results are periodically saved for analysis, including daily mean CPs, infection counts, and confidence intervals.</p>
 
+### CP_INCOMPLETE.py ###
+
+<p align="justify"> The script simulates the spread of a disease within a population, with the primary aim of inferring Contagion Potential (CP) from incomplete epidemiological information. It models the movements and interactions of individuals in a spatial environment, considering factors like home locations, friendship networks, and infection probabilities. Using the SEIRD (Susceptible-Exposed-Infected-Recovered-Dead) model, the simulation tracks disease dynamics over time, adjusting individual statuses based on CP and infection probabilities. It employs sampling methods to infer CP and evaluates whether the real infection rate falls within a calculated confidence interval, continuously adjusting factors and logging results for comprehensive analysis. </p>
 
 ### dir_parallel2d.py ###
 
