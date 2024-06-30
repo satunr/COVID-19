@@ -15,25 +15,6 @@ from numpy.linalg import norm, inv
 # from sklearn.metrics.pairwise import cosine_similarity
 from scipy import linalg
 
-'''
-germany - 6/22
-italy - 11/22
-
-poland - 6/22
-albania - 6/22
-malta - 6/22
-lithuania - 6/22
-Austria - 6/22
-
-czech - 12/21
-hungary - 3/22
-moldova - 4/22
-denmark - 11/21
-slovakia - 2/21
-switzerland - 3/22
-bosnia - 8/21
-'''
-
 # ------------------------ for Italy *** start ------------------------
 def Mu_R_opt(params, *args):
     
@@ -441,18 +422,3 @@ plt.legend()
 plt.savefig("Bulk_mu_comp"+str(Duration)+".png")
 plt.clf()
 '''
-'''
-0.01, 99 => 312 / 317, 0.9842271293375395 1.1102230246251565e-16
-0.01, 95 => 313 / 317, 0.98738170347, 0
-0.01, 90 => 313 / 317, 0.9873817034700314 1.1102230246251565e-16
-
-0.005, 99 => 312 / 317, 0.9842271293375395 1.1102230246251565e-16
-0.005, 95 => 312 / 317, 0.9842271293375395 1.1102230246251565e-16
-0.005, 90 => 312 / 317, 0.9842271293375395 1.1102230246251565e-16
-
-0.00005, 99 =>  304/ 317, 0.9589905362776028 2.220446049250313e-16
-0.00005, 95 => 303 / 317
-0.00005, 90 =>  302/ 317
-
-
-''' 
