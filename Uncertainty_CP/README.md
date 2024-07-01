@@ -37,7 +37,7 @@ Advancing Infection Profiling under Data Uncertainty through Contagion Potential
 
 
 ### DATASETS ###
-We consider population-level epidemiological data of the daily COVID cases in Germany, Italy, and Austria between January 1, 2022, and June 20, 2022, obtained from Our World in Data [1]. This dataset includes cumulative positive cases, cumulative deceased cases, cumulative recovered cases, current positive cases, hospitalization figures, intensive care data, etc., categorized by date and region within each country. 
+<p align="justify"> We consider population-level epidemiological data of the daily COVID cases in Germany, Italy, and Austria between January 1, 2022, and June 20, 2022, obtained from Our World in Data [1]. This dataset includes cumulative positive cases, cumulative deceased cases, cumulative recovered cases, current positive cases, hospitalization figures, intensive care data, etc., categorized by date and region within each country. </p>
 
 
 ### DEPENDENCIES ###
