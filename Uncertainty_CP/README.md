@@ -43,7 +43,7 @@ Time-series population-level epidemiological data of Italy (1 Jan 2022 - 13 Nov 
 
 
 
-### References ### 
+### REFERENCES ### 
 
 [1] Our world in data. https://ourworldindata.org/covid-cases, 2022.
 
