@@ -36,15 +36,20 @@ Advancing Infection Profiling under Data Uncertainty through Contagion Potential
 <p align="justify"> In this script, inverse probability weighting (IPW) is strategically employed to counteract biases inherent in sample collection methods. By adjusting the contribution of each individual's contagion potential (CP) based on their likelihood of being sampled, IPW enhances the accuracy of CP predictions. This approach is crucial in epidemiological simulations where realistic estimations of infectious disease spread are paramount. </p>
 
 
+***OUTBREAK_BULK.py***
+<p align="justify"> This code simulates an outbreak by varying the contact rates over time, creating different scenarios within the simulation period. It then estimates the prediction accuracy of true contagion potential (CP) using bulk epidemiological data by fitting a model to the simulated data and optimizing parameters to match the true underlying dynamics. </p>
+
 ### DATASETS ###
 <p align="justify"> We consider population-level epidemiological data of the daily COVID cases in Germany, Italy, and Austria between January 1, 2022, and June 20, 2022, obtained from Our World in Data [1]. This dataset includes cumulative positive cases, cumulative deceased cases, cumulative recovered cases, current positive cases, hospitalization figures, intensive care data, etc., categorized by date and region within each country. </p>
 
 
-### DEPENDENCIES ###
+### DEPENDENCIES & RUNNING THE MODULES ###
 
 **pip install _package_**
 
 package = {scipy, numpy, matplotlib, pickle-mixin, scipy, scikit-learn, pathos}
+
+**python _modules_.py**
 
 
 ### REFERENCES ### 
