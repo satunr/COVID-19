@@ -49,7 +49,10 @@ Advancing Infection Profiling under Data Uncertainty through Contagion Potential
 
 package = {scipy, numpy, matplotlib, pickle-mixin, scipy, scikit-learn, pathos}
 
+
 **python _modules_.py**
+
+modules = {CP_OPT_BULK.py, CP_OPT_COUNTRY.py, SIM_SPATIAL.py, CP_INCOMPLETE.py, ENTROPY.py, PARALLEL_SPATIAL_CP.py, CP_BIAS_IPW.py, OUTBREAK_BULK.py}
 
 
 ### REFERENCES ### 
