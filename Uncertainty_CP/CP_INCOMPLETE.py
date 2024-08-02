@@ -12,14 +12,18 @@ from copy import deepcopy
 from multiprocessing import Pool
 
 
-def find_inflation(CP_sample, CPs1, S, kappa = 0.001):
+def find_inflation(CP_sample, CPs1, S, inf_change, kappa = 0.001):
 
     global factor, Factor_Log, LogINC, LogCOM
     if len(CP_sample.keys()) == 0:
         return
 
     # factor = np.mean(list(CPs1.values())) - (np.mean(list(CP_sample.values())))
-    factor = np.mean([CPs1[u] - CP_sample[u] for u in CP_sample.keys()])
+    factor = [1 - CP_sample[u] for u in inf_change if u in CP_sample.keys()]
+    if len(factor) == 0:
+        factor = 0
+    else:
+        factor = np.mean(factor)
     print ('***', factor)
 
     LogCOM.append(np.mean([CPs1[u] for u in CP_sample.keys()]))
@@ -187,6 +191,7 @@ def seird(L, S, beta, prob, gamma, alpha, CPs, CP_sample, delta, sample_rate, nP
 
     print (LogINC)
     print (LogCOM, '\n')
+    inf_change = []
 
     for person in l:
         neighbor = [j for j in l if S1[person, j] > 0]
@@ -210,6 +215,7 @@ def seird(L, S, beta, prob, gamma, alpha, CPs, CP_sample, delta, sample_rate, nP
             for other in neighbor:
                 if random.uniform(0, 1) < beta * CPs[other]:
                     S[person] = 'I'
+                    inf_change.append(person)
                     break
 
             CPs1[person] = alpha_decay * CPs[person] + prob * sum([CPs[other] for other in neighbor])
@@ -219,7 +225,7 @@ def seird(L, S, beta, prob, gamma, alpha, CPs, CP_sample, delta, sample_rate, nP
                 CP_sample[person] = min(alpha_decay * CP_sample[person]
                                         + prob * sum([CP_sample[other] for other in neighbor_sample]), 1.0)
 
-    # find_inflation(CP_sample, CPs1, S)
+    find_inflation(CP_sample, CPs1, S, inf_change)
 
     t, interval = sample(CP_sample, CPs1, sample_rate)
     tested_infected.append(t)
